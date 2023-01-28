@@ -14,6 +14,6 @@ Then to block this, add
 ```
 to the bottom of 
 
-https://github.com/LiohMoeller/uAdBlockNG/blob/main/host-files/hosts.02-uAdBlock-extra
+https://github.com/LiohMoeller/uAdBlockNG/blob/master/host-files/hosts.02-uAdBlock-extra
 
 Then send a pull request
