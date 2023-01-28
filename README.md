@@ -5,6 +5,13 @@ System wide adblocker for ubuntu touch
 
 Based on: https://github.com/mariogrip/uAdBlock
 
+## Included blacklists
+
+- [Steven Black's Hosts](https://github.com/StevenBlack/hosts)
+- [AdAway](https://adaway.org/)
+- [Dan Pollock's Hosts](https://someonewhocares.org/hosts/)
+- [Goodbye Ads](https://github.com/jerryn70/GoodbyeAds)
+
 ### How to add host to blacklist?
 
 Lest say you found "adware.com" to be an ad service
