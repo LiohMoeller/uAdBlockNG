@@ -24,8 +24,8 @@ MainView {
         property string lastUpdate: "Never"
     }
 
-    property var source: 'https://raw.githubusercontent.com/mariogrip/uAdBlock/master/host-files/hosts'
-    property var updateFile: "https://raw.githubusercontent.com/mariogrip/uAdBlock/master/host-files/updated"
+    property var source: 'https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/main/host-files/hosts'
+    property var updateFile: "https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/main/host-files/updated"
     property var target: '/etc/hosts'
     property var blocklist: '/etc/hosts.blocklist'
     property var blocklistEnabled: '/etc/hosts.blocklist-enabled'
@@ -126,7 +126,7 @@ MainView {
     }
 
     Page {
-        title: i18n.tr("uAdBlock")
+        title: i18n.tr("uAdBlockNG")
 
         ActivityIndicator {
           id: aIndicator
@@ -176,7 +176,7 @@ MainView {
                 }
 
                 ListItem.Standard {
-                    text: i18n.tr("uAdBlock enabled")
+                    text: i18n.tr("uAdBlockNG enabled")
                     enabled: true
                     control: Switch {
                         id: enableSw

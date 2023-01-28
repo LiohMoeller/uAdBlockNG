@@ -24,17 +24,17 @@ set(QT_IMPORTS_DIR "lib/${ARCH_TRIPLET}")
 
 option(INSTALL_TESTS "Install the tests on make install" on)
 
-set(APP_NAME          uAdBlock)
-set(APP_ID            "uadblock.mariogrip")
-set(UADBLOCK_DIR "share/qml/uAdBlock")
+set(APP_NAME          uAdBlockNG)
+set(APP_ID            "uadblockng.liohmoeller")
+set(UADBLOCK_DIR "share/qml/uAdBlockNG")
 set(MAIN_QML          "Main.qml")
-set(ICON              "graphics/uAdBlock.svg")
+set(ICON              "graphics/uAdBlockNG.svg")
 
 # Set install paths
 set(CMAKE_INSTALL_PREFIX /)
 set(DATA_DIR /)
 set(DESKTOP_DIR ${DATA_DIR})
-set(DESKTOP_FILE_NAME "uAdBlock.desktop")
+set(DESKTOP_FILE_NAME "uAdBlockNG.desktop")
 
 set(EXEC "qmlscene %U ${UADBLOCK_DIR}/${MAIN_QML}")
 
@@ -50,7 +50,7 @@ install(FILES ${CMAKE_CURRENT_BINARY_DIR}/manifest.json
         DESTINATION ${CMAKE_INSTALL_PREFIX})
 
 install(DIRECTORY "app/graphics" DESTINATION ${DATA_DIR})
-install(FILES "uAdBlock.apparmor" DESTINATION ${DATA_DIR})
+install(FILES "uAdBlockNG.apparmor" DESTINATION ${DATA_DIR})
 
 add_subdirectory(app)
 add_subdirectory(backend)
@@ -72,4 +72,4 @@ add_custom_target("run" /usr/bin/qmlscene -I ${CMAKE_BINARY_DIR}/backend  ${CMAK
                     WORKING_DIRECTORY ./app)
 
 # No op custom target for all not compiled files, so they show up in the QtCreator project tree
-add_custom_target("uadblock_ClickFiles" ALL SOURCES "uAdBlock.apparmor" "manifest.json.in")
+add_custom_target("uadblock_ClickFiles" ALL SOURCES "uAdBlockNG.apparmor" "manifest.json.in")

@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-28 20:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../app/Main.qml:129
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:129
+#: ../build/aarch64-linux-gnu/app/po/uAdBlockNG.desktop.in.h:1
+#: /home/lioh/git/uAdBlockNG/build/x86_64-linux-gnu/app/po/uAdBlockNG.desktop.in.h:1
+msgid "uAdBlockNG"
+msgstr ""
+
+#: ../app/Main.qml:173
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:173
+msgid "Please note that this app will modify your readonly filesystem"
+msgstr ""
+
+#: ../app/Main.qml:179
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:179
+msgid "uAdBlockNG enabled"
+msgstr ""
+
+#: ../app/Main.qml:201
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:201
+msgid "Last updated"
+msgstr ""
+
+#: ../app/Main.qml:208
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:208
+msgid "Check for update"
+msgstr ""
+
+#: ../app/Main.qml:221
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:221
+msgid "Updated"
+msgstr ""
+
+#: ../app/Main.qml:223
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:223
+msgid "No update available"
+msgstr ""
+
+#: ../app/Main.qml:232
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:232
+msgid "Error"
+msgstr ""
+
+#: ../app/Main.qml:290
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:290
+msgid "New version available"
+msgstr ""
+
+#: ../app/Main.qml:291
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:291
+msgid "New adblock list available, Want to update?"
+msgstr ""
+
+#: ../app/Main.qml:297
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:297
+msgid "Yes"
+msgstr ""
+
+#: ../app/Main.qml:305
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:305
+msgid "No"
+msgstr ""
+
+#: ../app/Main.qml:319
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:319
+msgid "Enter password"
+msgstr ""
+
+#: ../app/Main.qml:320
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:320
+msgid "Your password is required for this action:"
+msgstr ""
+
+#: ../app/Main.qml:330
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:330
+msgid "OK"
+msgstr ""
+
+#: ../app/Main.qml:338
+#: ../build/aarch64-linux-gnu/app/install/share/qml/uAdBlock/Main.qml:338
+msgid "Cancel"
+msgstr ""

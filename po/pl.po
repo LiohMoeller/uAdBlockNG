@@ -19,16 +19,16 @@ msgstr ""
 
 #: ../app/Main.qml:120
 #: /home/mariogrip/build-uAdBlock-Ubuntu_Device4_GCC_armhf_ubuntu_sdk_15_04_builder_armhf-Default/po/uAdBlock.desktop.in.h:1
-msgid "uAdBlock"
-msgstr "uAdBlock"
+msgid "uAdBlockNG"
+msgstr "uAdBlockNG"
 
 #: ../app/Main.qml:164
 msgid "Please note that this app will modify your readonly filesystem"
 msgstr "Pamiętaj, że ta aplikacja zmodyfikuje twój system plików tylko do odczytu"
 
 #: ../app/Main.qml:170
-msgid "uAdBlock enabled"
-msgstr "uAdBlock włączony"
+msgid "uAdBlockNG enabled"
+msgstr "uAdBlockNG włączony"
 
 #: ../app/Main.qml:192
 msgid "Last updated"

@@ -1,6 +1,7 @@
-# uAdBlock
+# uAdBlockNG
 System wide adblocker for ubuntu touch
 
+Based on: https://github.com/mariogrip/uAdBlock
 
 ### How to add host to blacklist?
 
@@ -13,6 +14,6 @@ Then to block this, add
 ```
 to the bottom of 
 
-https://github.com/mariogrip/uAdBlock/blob/master/host-files/hosts.02-uAdBlock-extra
+https://github.com/LiohMoeller/uAdBlockNG/blob/main/host-files/hosts.02-uAdBlock-extra
 
 Then send a pull request

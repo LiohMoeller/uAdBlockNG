@@ -1,4 +1,4 @@
-# German translation for uAdBlock
+# German translation for uAdBlockNG
 # This file is distributed under the same license as the uAdBlock package.
 # Bjarne Roß <ross.b@freenet.de>, 2017.
 #
@@ -19,16 +19,16 @@ msgstr ""
 
 #: ../app/Main.qml:124
 #: /home/mariogrip/build-uAdBlock-Ubuntu_Device2_GCC_armhf_ubuntu_sdk_15_04_builder_armhf-Default/po/uAdBlock.desktop.in.h:1
-msgid "uAdBlock"
-msgstr "uAdBlock"
+msgid "uAdBlockNG"
+msgstr "uAdBlockNG"
 
 #: ../app/Main.qml:168
 msgid "Please note that this app will modify your readonly filesystem"
 msgstr "Bitte beachte, dass diese App Ihr Nur-Lese-Dateisystem bearbeiten wird"
 
 #: ../app/Main.qml:174
-msgid "uAdBlock enabled"
-msgstr "uAdBlock aktiviert"
+msgid "uAdBlockNG enabled"
+msgstr "uAdBlockNG aktiviert"
 
 #: ../app/Main.qml:196
 msgid "Last updated"
