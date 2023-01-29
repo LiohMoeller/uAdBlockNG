@@ -1,6 +1,6 @@
 import QtQuick 2.4
 import QtTest 1.0
-import Lomiri.Components 1.3
+import Ubuntu.Components 1.3
 import UAdBlock 1.0
 
 // See more details @ http://qt-project.org/doc/qt-5.0/qtquick/qml-testcase.html
