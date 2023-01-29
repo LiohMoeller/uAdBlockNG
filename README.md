@@ -14,11 +14,9 @@ Based on: https://github.com/mariogrip/uAdBlock
 
 ### How to add host to blacklist?
 
-Please keep in mind that the selection of included list is very thoughtful and should work for most of the users.
+Suggestsions for new lists to be included have to be considered carefully and should work for most of the users. A configuration option for allowing lists to be enabled or disabled or a way to add additional lists on your local device is not planned.
 
-Suggestsions for new lists to be included have to be considered carefully under this circumstances. A configuration option for allowing lists to be enabled or disabled or a way to add additional lists on your local device is not planned.
-
-Lest say you found still found "adware.com" which is not part of any of the included lists to be an ad service
+Let's say you found still found "adware.com" which is not part of any of the included lists to be an ad service.
 
 Then to block this, add
 ```
