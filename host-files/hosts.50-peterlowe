@@ -15,62 +15,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 <body>
 
 
-<p> [ <b><a href="/adservers/">view the list in a different format</a></b>
-    | <a href="index.php">about this list</a>
-    | <a href="iplist.php">view the blocklist of IP addresses</a>
-    ]
-
-<p><table cellpadding=2 cellspacing=0>
-
-<tr>
-<td>blocklist last updated:</td>
-<td><b class=blue>Wed, 18 Jan 2023 22:02:26 GMT</b></td>
-</tr>
-
-
-<tr>
-<td>listing ad servers added after:</td>
-<td><b class=blue>Mon, 03 Feb 2003 00:00:00</b></td>
-</tr>
-
-
-<tr>
-<td>format list is displayed in:</td>
-<td><b class=blue>hosts -- in hosts file format</b></td>
-</tr>
-
-<tr>
-<td>total entries:</td>
-<td><b class=blue>3665</b></td>
-</tr>
-
-</table>
-
-
-<p> [ <a href="/adservers/serverlist.php?hostformat=hosts;showintro=0">hide this header (view the list on its own)</a>
-    ]
-
-
-<p><table cellpadding=3 cellspacing=1>
-
-<form action="/adservers/serverlist.php">
-<input type=hidden name=hostformat value="hosts">
-<input type=hidden name="startdate[day]" value="3">
-<input type=hidden name="startdate[month]" value="2">
-<input type=hidden name="startdate[year]" value="2003">
-
-<tr>
-<td>change the IP address used:</td>
-<td><input type=text size=12 name=useip value="127.0.0.1"></td>
-<td><input type=submit value="show list with this IP address"></td>
-</tr>
-
-</form>
-
-</table>
-
-
-
 
 <p><pre>
 # Blocklist for use with hosts files to block ads, trackers, and other nasty things
@@ -81,7 +25,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # entries:        3665
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
+# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 # Patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
