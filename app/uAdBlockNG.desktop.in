@@ -1,6 +1,6 @@
 [Desktop Entry]
 _Name=uAdBlockNG
-Comment=My project description
+Comment=System wide adblocker for Ubuntu Touch
 Exec=@EXEC@
 Icon=@ICON@
 Terminal=false

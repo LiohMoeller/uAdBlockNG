@@ -1,5 +1,5 @@
 # uAdBlockNG
-System wide adblocker for ubuntu touch
+System wide adblocker for Ubuntu Touch
 
 ![uAdBlockNG](https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/master/app/graphics/uAdBlockNG.svg)
 
