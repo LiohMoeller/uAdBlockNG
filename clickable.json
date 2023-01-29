@@ -1,4 +1,5 @@
 {
+  "framework": "ubuntu-sdk-20.04",
   "builder": "cmake",
   "always_clean": true,
   "skip_review": true,
