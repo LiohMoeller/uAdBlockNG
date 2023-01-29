@@ -24,8 +24,8 @@ MainView {
         property string lastUpdate: "Never"
     }
 
-    property var source: 'https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/master/host-files/hosts'
-    property var updateFile: "https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/master/host-files/updated"
+    property var source: 'https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/main/host-files/hosts'
+    property var updateFile: "https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/main/host-files/updated"
     property var target: '/etc/hosts'
     property var blocklist: '/etc/hosts.blocklist'
     property var blocklistEnabled: '/etc/hosts.blocklist-enabled'
