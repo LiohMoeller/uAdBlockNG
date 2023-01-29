@@ -1,9 +1,9 @@
 import QtQuick 2.4
 import QtQuick.Layouts 1.1
 import Qt.labs.settings 1.0
-import Ubuntu.Components 1.3
-import Ubuntu.Components.Popups 1.3
-import Ubuntu.Components.ListItems 1.3 as ListItem
+import Lomiri.Components 1.3
+import Lomiri.Components.Popups 1.3
+import Lomiri.Components.ListItems 1.3 as ListItem
 import UAdBlock 1.0
 /*!
     \brief MainView with a Label and Button elements.
@@ -295,7 +295,7 @@ MainView {
 
                 Button {
                     text: i18n.tr("Yes")
-                    color: UbuntuColors.green
+                    color: LomiriColors.green
                     onClicked: {
                         newVersionDialog.accepted()
                         PopupUtils.close(newVersionDialog)
@@ -303,7 +303,7 @@ MainView {
                 }
                 Button {
                     text: i18n.tr("No")
-                    color: UbuntuColors.red
+                    color: LomiriColors.red
                     onClicked: {
                         newVersionDialog.rejected();
                         PopupUtils.close(newVersionDialog)
@@ -328,7 +328,7 @@ MainView {
                 }
                 Button {
                     text: i18n.tr("OK")
-                    color: UbuntuColors.green
+                    color: LomiriColors.green
                     onClicked: {
                         passwordDialog.accepted(passwordTextField.text)
                         PopupUtils.close(passwordDialog)
@@ -336,7 +336,7 @@ MainView {
                 }
                 Button {
                     text: i18n.tr("Cancel")
-                    color: UbuntuColors.red
+                    color: LomiriColors.red
                     onClicked: {
                         passwordDialog.rejected();
                         PopupUtils.close(passwordDialog)
