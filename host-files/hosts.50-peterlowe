@@ -1,22 +1,3 @@
-<html>
-
-<head>
-<meta name="author" value="Peter Lowe; pgl@yoyo.org">
-<meta name="description" value="Blocklist of hostnames and domains for blocking ads, trackers and others (format: hosts -- in hosts file format)">
-<meta name="keywords" value="ad blocking, blocking ads, ad servers, trackers, ads, banners, hosts file, privacy">
-
-<link rel=alternate type="application/rss+xml" title="Blocklist of hostnames and domains for blocking ads, trackers and others (format: hosts -- in hosts file format) (RSS - last 50 added)" href="rss/1.0/adservers.rss">
-
-<title>
-Blocklist of hostnames and domains for blocking ads, trackers and others (format: hosts -- in hosts file format)</title>
-
-<link rel='stylesheet' href='/css/pgl.css' type='text/css'></head>
-
-<body>
-
-
-
-<p><pre>
 # Blocklist for use with hosts files to block ads, trackers, and other nasty things
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
@@ -25,7 +6,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # entries:        3665
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
+# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
 # Patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
@@ -3696,9 +3677,3 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 zukxd6fkxqn.com
 127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
-</pre>
-
-</body>
-
-</html>
-
