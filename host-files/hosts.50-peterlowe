@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 30 Jan 2023 17:56:25 GMT
-# entries:        3669
+# entries:        3668
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1508,7 +1508,6 @@
 127.0.0.1 cpxinteractive.com
 127.0.0.1 cqcounter.com
 127.0.0.1 crabbychin.com
-127.0.0.1 crakmedia.com
 127.0.0.1 craktraffic.com
 127.0.0.1 crashchance.com
 127.0.0.1 crashlytics.com
