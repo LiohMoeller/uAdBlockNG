@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Mar 2023 21:35:25 GMT
-# entries:        3750
+# last updated:   Sat, 01 Apr 2023 01:06:32 GMT
+# entries:        3751
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 05 Apr 2003 00:00:00
+# start date:    Sun, 06 Apr 2003 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -45,6 +45,7 @@
 127.0.0.1 777partner.com
 127.0.0.1 77tracking.com
 127.0.0.1 7bpeople.com
+127.0.0.1 7cnq.net
 127.0.0.1 7search.com
 127.0.0.1 82o9v830.com
 127.0.0.1 a-ads.com
