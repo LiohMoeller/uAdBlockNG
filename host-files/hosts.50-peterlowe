@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 04 Apr 2023 21:08:49 GMT
-# entries:        3750
+# last updated:   Sun, 16 Apr 2023 00:45:33 GMT
+# entries:        3749
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -11,11 +11,10 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 18 Apr 2003 00:00:00
+# start date:    Mon, 21 Apr 2003 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
-127.0.0.1 123freeavatars.com
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
 127.0.0.1 1link2020.com
@@ -387,7 +386,6 @@
 127.0.0.1 ads.amdmb.com
 127.0.0.1 ads.amigos.com
 127.0.0.1 ads.annabac.com
-127.0.0.1 ads.aol.co.uk
 127.0.0.1 ads.apn.co.nz
 127.0.0.1 ads.appsgeyser.com
 127.0.0.1 ads.apteka254.ru
@@ -733,7 +731,6 @@
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.adverty.com
 127.0.0.1 adserver.anawe.cz
-127.0.0.1 adserver.aol.fr
 127.0.0.1 adserver.ariase.org
 127.0.0.1 adserver.bdoce.cl
 127.0.0.1 adserver.betandwin.de
@@ -845,6 +842,7 @@
 127.0.0.1 adsynergy.com
 127.0.0.1 adsys.townnews.com
 127.0.0.1 adsystem.simplemachines.org
+127.0.0.1 adt598.com
 127.0.0.1 adtech-digital.ru
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
@@ -1379,6 +1377,7 @@
 127.0.0.1 clck.ru
 127.0.0.1 clevernt.com
 127.0.0.1 click.airmalta-mail.com
+127.0.0.1 click.aliexpress.com
 127.0.0.1 click.bkdpt.com
 127.0.0.1 click.cartsguru.io
 127.0.0.1 click.cision.com
@@ -1692,7 +1691,6 @@
 127.0.0.1 ecoupons.com
 127.0.0.1 edaa.eu
 127.0.0.1 edgexads.com
-127.0.0.1 educationdynamics.com
 127.0.0.1 effectivemeasure.com
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 eiv.baidu.com
@@ -1745,6 +1743,7 @@
 127.0.0.1 ero-advertising.com
 127.0.0.1 estat.com
 127.0.0.1 esty.com
+127.0.0.1 et.educationdynamics.com
 127.0.0.1 et.nytimes.com
 127.0.0.1 etahub.com
 127.0.0.1 etargetnet.com
@@ -1829,7 +1828,6 @@
 127.0.0.1 fireworkadservices.com
 127.0.0.1 fireworkanalytics.com
 127.0.0.1 fireworks-advertising.com
-127.0.0.1 first.nova.cz
 127.0.0.1 firstlightera.com
 127.0.0.1 flairadscpc.com
 127.0.0.1 flakyfeast.com
@@ -3668,6 +3666,7 @@
 127.0.0.1 whoisonline.net
 127.0.0.1 wickedreports.com
 127.0.0.1 widespace.com
+127.0.0.1 widget.educationdynamics.com
 127.0.0.1 widget.privy.com
 127.0.0.1 widgetbucks.com
 127.0.0.1 wikia-ads.wikia.com
