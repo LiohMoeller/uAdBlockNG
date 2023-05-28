@@ -1,7 +1,7 @@
-# Version: 202305251620
+# Version: 202305270659
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-05-25T16:20:13+0000
+# Last modified: 2023-05-27T06:59:32+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                                    
@@ -34421,7 +34421,6 @@
 0.0.0.0 martaconectacontuser.com
 0.0.0.0 martafatass.pro
 0.0.0.0 martcubic.com
-0.0.0.0 martech.condenastdigital.com
 0.0.0.0 marten.countertype.com
 0.0.0.0 marten.emperor-creative.com
 0.0.0.0 marten.joqr.co.jp
@@ -45328,7 +45327,6 @@
 0.0.0.0 rt.applvn.com
 0.0.0.0 rt.flix360.com
 0.0.0.0 rt.gsspat.jp
-0.0.0.0 rt.rtoaster.jp
 0.0.0.0 rt.t-online.de
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
@@ -51627,7 +51625,6 @@
 0.0.0.0 tags.adnuntius.com
 0.0.0.0 tags.aiactiv.io
 0.0.0.0 tags.aicactus.io
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.cdn.circlesix.co
