@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 22 Sep 2023 19:16:51 GMT
-# entries:        3719
+# last updated:   Thu, 28 Sep 2023 08:27:02 GMT
+# entries:        3721
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1372,7 +1372,9 @@
 127.0.0.1 click.e.zoom.us
 127.0.0.1 click.em.blizzard.com
 127.0.0.1 click.email.bbc.com
+127.0.0.1 click.email.microsoftemail.com
 127.0.0.1 click.email.sonos.com
+127.0.0.1 click.email.strawberry.no
 127.0.0.1 click.fool.com
 127.0.0.1 click.hookupinyourcity.com
 127.0.0.1 click.hooligapps.com
