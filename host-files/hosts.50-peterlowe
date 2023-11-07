@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 31 Oct 2023 21:51:43 GMT
+# last updated:   Sun, 05 Nov 2023 02:35:40 GMT
 # entries:        3720
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -2509,6 +2509,7 @@
 127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
 127.0.0.1 ntvk1.ru
+127.0.0.1 nullitics.com
 127.0.0.1 nuseek.com
 127.0.0.1 nuttyorganization.com
 127.0.0.1 nzaza.com
@@ -3352,7 +3353,6 @@
 127.0.0.1 top123.ro
 127.0.0.1 top20free.com
 127.0.0.1 topforall.com
-127.0.0.1 topgamesites.net
 127.0.0.1 toplist.cz
 127.0.0.1 toplist.pornhost.com
 127.0.0.1 toplista.mw.hu
