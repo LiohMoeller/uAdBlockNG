@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 19 Nov 2023 01:36:03 GMT
-# entries:        3717
+# last updated:   Wed, 22 Nov 2023 15:59:29 GMT
+# entries:        3719
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1841,10 +1841,12 @@
 127.0.0.1 freshrelevance.com
 127.0.0.1 friendwool.com
 127.0.0.1 frightenedpotato.com
+127.0.0.1 fronttoad.com
 127.0.0.1 frtyj.com
 127.0.0.1 frtyk.com
 127.0.0.1 fullstory.com
 127.0.0.1 functionalcrown.com
+127.0.0.1 functionalfeather.com
 127.0.0.1 funklicks.com
 127.0.0.1 funnelytics.io
 127.0.0.1 furryfork.com
