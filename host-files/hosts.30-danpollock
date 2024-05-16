@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 13 May 2024 at 07:46:10 GMT
+# Last updated: Wed, 15 May 2024 at 19:04:30 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1587,6 +1587,7 @@ ff02::3		ip6-allhosts
 # sites with known trojans, phishing, or other malware
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 05tz2e9.com
+0.0.0.0 1-directshipmtdhlsexpress-order.help
 0.0.0.0 1001paixnidia.fr
 0.0.0.0 105915624.com
 0.0.0.0 10tide.com
@@ -8275,6 +8276,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mochibot.com
 0.0.0.0 modescrips.info
+0.0.0.0 modlily.com
+0.0.0.0 modlily.net
 0.0.0.0 mokavilag.com
 0.0.0.0 monarchy.nl
 0.0.0.0 monetate.net
