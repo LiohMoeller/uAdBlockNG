@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 19 Jul 2024 15:20:14 GMT
-# entries:        3547
+# last updated:   Thu, 25 Jul 2024 11:04:17 GMT
+# entries:        3551
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1746,6 +1746,7 @@
 127.0.0.1 frequentflesh.com
 127.0.0.1 freshrelevance.com
 127.0.0.1 frightenedpotato.com
+127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frtyj.com
 127.0.0.1 frtyk.com
@@ -1846,6 +1847,7 @@
 127.0.0.1 hdscout.com
 127.0.0.1 heap.com
 127.0.0.1 hearinglizards.com
+127.0.0.1 heimi-lwx.com
 127.0.0.1 hellobar.com
 127.0.0.1 helpcollar.com
 127.0.0.1 hentaicounter.com
@@ -2097,6 +2099,7 @@
 127.0.0.1 link-booster.de
 127.0.0.1 link.axios.com
 127.0.0.1 link.email.usmagazine.com
+127.0.0.1 link.go.chase
 127.0.0.1 link.sbstck.com
 127.0.0.1 link.theatlantic.com
 127.0.0.1 link.uk.expediamail.com
@@ -2108,6 +2111,7 @@
 127.0.0.1 linkreferral.com
 127.0.0.1 links-ranking.de
 127.0.0.1 links.email.crunchbase.com
+127.0.0.1 links.prosservice.fr
 127.0.0.1 links.zoopla.co.uk
 127.0.0.1 linkstorms.com
 127.0.0.1 linkswaper.com
