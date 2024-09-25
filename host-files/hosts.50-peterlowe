@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 21 Sep 2024 21:18:08 GMT
-# entries:        3548
+# last updated:   Wed, 25 Sep 2024 14:12:10 GMT
+# entries:        3553
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1320,6 +1320,7 @@
 127.0.0.1 click.twcwigs.com
 127.0.0.1 click2freemoney.com
 127.0.0.1 click360v2-ingest.azurewebsites.net
+127.0.0.1 clickadddilla.com
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickbank.com
@@ -1523,6 +1524,7 @@
 127.0.0.1 directtrack.com
 127.0.0.1 discountclick.com
 127.0.0.1 discreetfield.com
+127.0.0.1 displayvertising.com
 127.0.0.1 disqusads.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
@@ -1776,6 +1778,7 @@
 127.0.0.1 getclicky.com
 127.0.0.1 getintent.com
 127.0.0.1 getmyads.com
+127.0.0.1 getxmlisi.com
 127.0.0.1 giddycoat.com
 127.0.0.1 glisteningsign.com
 127.0.0.1 globalismedia.com
@@ -1804,6 +1807,7 @@
 127.0.0.1 googletagservices.com
 127.0.0.1 gostats.com
 127.0.0.1 gothamads.com
+127.0.0.1 gotoyahoo.com
 127.0.0.1 gotraffic.net
 127.0.0.1 gp.dejanews.com
 127.0.0.1 graizoah.com
@@ -2785,6 +2789,7 @@
 127.0.0.1 roar.com
 127.0.0.1 robotreplay.com
 127.0.0.1 rockabox.co
+127.0.0.1 rockagainst.com
 127.0.0.1 rok.com.com
 127.0.0.1 rollconnection.com
 127.0.0.1 rose.ixbt.com
