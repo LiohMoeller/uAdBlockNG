@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 29 Nov 2024 19:50:12 GMT
-# entries:        3537
+# last updated:   Wed, 04 Dec 2024 10:38:14 GMT
+# entries:        3542
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -17,6 +17,7 @@
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
 127.0.0.1 1rx.io
+127.0.0.1 2020mustang.com
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
@@ -1330,6 +1331,7 @@
 127.0.0.1 clickhereforcellphones.com
 127.0.0.1 clicklink.jp
 127.0.0.1 clickmate.io
+127.0.0.1 clickngo.pro
 127.0.0.1 clickonometrics.pl
 127.0.0.1 clicks.deliveroo.co.uk
 127.0.0.1 clicks.equantum.com
@@ -1480,6 +1482,7 @@
 127.0.0.1 dancemistake.com
 127.0.0.1 dapper.net
 127.0.0.1 data.namesakeoscilloscopemarquis.com
+127.0.0.1 datenow.link
 127.0.0.1 daughterstone.com
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
@@ -2458,6 +2461,7 @@
 127.0.0.1 optmstr.com
 127.0.0.1 optnmstr.com
 127.0.0.1 optnx.com
+127.0.0.1 orbsrv.com
 127.0.0.1 orientedargument.com
 127.0.0.1 orionember.com
 127.0.0.1 ota.cartrawler.com
@@ -2723,6 +2727,7 @@
 127.0.0.1 reconditerake.com
 127.0.0.1 record.bonniergaming.com
 127.0.0.1 record.mrwin.com
+127.0.0.1 redirecting8.eu
 127.0.0.1 redirectingat.com
 127.0.0.1 redirectvoluum.com
 127.0.0.1 redrection.pro
