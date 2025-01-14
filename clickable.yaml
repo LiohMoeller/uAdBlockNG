@@ -1,5 +1,5 @@
 ---
-framework: ubuntu-sdk-20.04
+framework: ubuntu-sdk-24.04
 builder: cmake
 always_clean: true
 skip_review: true

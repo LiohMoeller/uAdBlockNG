@@ -11,5 +11,5 @@
     },
     "version": "1.0",
     "maintainer": "Lioh Moeller <lioh.moeller@gmx.net>",
-    "framework": "ubuntu-sdk-20.04"
+    "framework": "ubuntu-sdk-24.04"
 }
