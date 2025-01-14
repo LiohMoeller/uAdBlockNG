@@ -3,7 +3,7 @@ framework: ubuntu-sdk-24.04
 builder: cmake
 always_clean: true
 skip_review: true
-clickable_minimum_required: '7'
+clickable_minimum_required: '8'
 kill: qmlscene
 ignore:
 - ".git"
