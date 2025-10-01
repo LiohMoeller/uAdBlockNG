@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 07 Jan 2025 at 01:18:32 GMT
+# Last updated: Wed, 17 Sep 2025 at 17:53:49 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -81,194 +81,6 @@ ff02::3		ip6-allhosts
 #fe80::1%lo0	localhost
 #</localhost>
 
-#<shock-sites>
-# For example, to block unpleasant pages, try:
-0.0.0.0 goatse.cx       # More information on sites such as 
-0.0.0.0 www.goatse.cx   # these can be found in this article
-0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
-0.0.0.0 www.oralse.cx
-0.0.0.0 goatse.ca
-0.0.0.0 www.goatse.ca
-0.0.0.0 oralse.ca
-0.0.0.0 www.oralse.ca
-0.0.0.0 goat.cx
-0.0.0.0 www.goat.cx
-0.0.0.0 shafou.com
-0.0.0.0 www.shafou.com
-0.0.0.0 1girl1pitcher.com
-0.0.0.0 1girl1pitcher.org
-0.0.0.0 1guy1cock.com
-0.0.0.0 1man1jar.org
-0.0.0.0 1man2needles.com
-0.0.0.0 1priest1nun.com
-0.0.0.0 1priest1nun.net
-0.0.0.0 2girls1cup-free.com
-0.0.0.0 2girls1cup.cc
-0.0.0.0 2girls1cup.com
-0.0.0.0 2girls1cup.nl
-0.0.0.0 2girls1cup.ws
-0.0.0.0 2girls1finger.com
-0.0.0.0 2girls1finger.org
-0.0.0.0 2guys1stump.org
-0.0.0.0 3guys1hammer.ws
-0.0.0.0 4girlsfingerpaint.com
-0.0.0.0 4girlsfingerpaint.org
-0.0.0.0 bagslap.com
-0.0.0.0 ballsack.org
-0.0.0.0 bestgore.fun
-0.0.0.0 bestshockers.com
-0.0.0.0 bluewaffle.biz
-0.0.0.0 bottleguy.com
-0.0.0.0 bowlgirl.com
-0.0.0.0 cadaver.org
-0.0.0.0 clownsong.com
-0.0.0.0 cyberscat.com
-0.0.0.0 dadparty.com
-0.0.0.0 detroithardcore.com
-0.0.0.0 donotwatch.org
-0.0.0.0 dontwatch.us
-0.0.0.0 eelsoup.net
-0.0.0.0 fruitlauncher.com
-0.0.0.0 funnelchair.com
-0.0.0.0 goatse.bz
-0.0.0.0 goatse.ru
-0.0.0.0 goatsegirl.org
-0.0.0.0 hai2u.com
-0.0.0.0 homewares.org
-0.0.0.0 howtotroll.org
-0.0.0.0 japscat.org
-0.0.0.0 jarsquatter.com
-0.0.0.0 jiztini.com
-0.0.0.0 kids-in-sandbox.com
-0.0.0.0 kidsinsandbox.info
-0.0.0.0 lemonparty.biz
-0.0.0.0 lemonparty.org
-0.0.0.0 lolhello.com
-0.0.0.0 lolshock.com
-0.0.0.0 loltrain.com
-0.0.0.0 meatspin.biz
-0.0.0.0 meatspin.com
-0.0.0.0 merryholidays.org
-0.0.0.0 milkfountain.com
-0.0.0.0 mudfall.com
-0.0.0.0 mudmonster.org
-0.0.0.0 nimp.org
-0.0.0.0 nobrain.dk
-0.0.0.0 nutabuse.com
-0.0.0.0 octopusgirl.com
-0.0.0.0 on.nimp.org
-0.0.0.0 painolympics.info
-0.0.0.0 painolympics.org
-0.0.0.0 phonejapan.com
-0.0.0.0 pnrtscr.com
-0.0.0.0 pressurespot.com
-0.0.0.0 prolapseman.com
-0.0.0.0 scrollbelow.com
-0.0.0.0 selfpwn.org
-0.0.0.0 shockgore.com
-0.0.0.0 sourmath.com
-0.0.0.0 strawpoii.me
-0.0.0.0 suckdude.com
-0.0.0.0 thatsjustgay.com
-0.0.0.0 thatsphucked.com
-0.0.0.0 thehomo.org
-0.0.0.0 themacuser.org
-0.0.0.0 thepounder.com
-0.0.0.0 tubgirl.me
-0.0.0.0 tubgirl.org
-0.0.0.0 turdgasm.com
-0.0.0.0 vomitgirl.org
-0.0.0.0 walkthedinosaur.com
-0.0.0.0 whipcrack.org
-0.0.0.0 wormgush.com
-0.0.0.0 www.1girl1pitcher.org
-0.0.0.0 www.1guy1cock.com
-0.0.0.0 www.1man1jar.org
-0.0.0.0 www.1man2needles.com
-0.0.0.0 www.1priest1nun.com
-0.0.0.0 www.1priest1nun.net
-0.0.0.0 www.2girls1cup-free.com
-0.0.0.0 www.2girls1cup.cc
-0.0.0.0 www.2girls1cup.nl
-0.0.0.0 www.2girls1cup.ws
-0.0.0.0 www.2girls1finger.org
-0.0.0.0 www.2guys1stump.org
-0.0.0.0 www.3guys1hammer.ws
-0.0.0.0 www.4girlsfingerpaint.org
-0.0.0.0 www.bagslap.com
-0.0.0.0 www.ballsack.org
-0.0.0.0 www.bestshockers.com
-0.0.0.0 www.bluewaffle.biz
-0.0.0.0 www.bottleguy.com
-0.0.0.0 www.bowlgirl.com
-0.0.0.0 www.cadaver.org
-0.0.0.0 www.clownsong.com
-0.0.0.0 www.cyberscat.com
-0.0.0.0 www.dadparty.com
-0.0.0.0 www.detroithardcore.com
-0.0.0.0 www.donotwatch.org
-0.0.0.0 www.dontwatch.us
-0.0.0.0 www.eelsoup.net
-0.0.0.0 www.fruitlauncher.com
-0.0.0.0 www.funnelchair.com
-0.0.0.0 www.goatse.bz
-0.0.0.0 www.goatse.ru
-0.0.0.0 www.goatsegirl.org
-0.0.0.0 www.hai2u.com
-0.0.0.0 www.homewares.org
-0.0.0.0 www.howtotroll.org
-0.0.0.0 www.japscat.org
-0.0.0.0 www.jiztini.com
-0.0.0.0 www.kids-in-sandbox.com
-0.0.0.0 www.kidsinsandbox.info
-0.0.0.0 www.lemonparty.biz
-0.0.0.0 www.lemonparty.org
-0.0.0.0 www.lolhello.com
-0.0.0.0 www.lolshock.com
-0.0.0.0 www.loltrain.com
-0.0.0.0 www.meatspin.biz
-0.0.0.0 www.meatspin.com
-0.0.0.0 www.merryholidays.org
-0.0.0.0 www.milkfountain.com
-0.0.0.0 www.mudfall.com
-0.0.0.0 www.mudmonster.org
-0.0.0.0 www.nimp.org
-0.0.0.0 www.nobrain.dk
-0.0.0.0 www.nutabuse.com
-0.0.0.0 www.octopusgirl.com
-0.0.0.0 www.on.nimp.org
-0.0.0.0 www.painolympics.info
-0.0.0.0 www.painolympics.org
-0.0.0.0 www.phonejapan.com
-0.0.0.0 www.pressurespot.com
-0.0.0.0 www.prolapseman.com
-0.0.0.0 www.punishtube.com
-0.0.0.0 www.scrollbelow.com
-0.0.0.0 www.selfpwn.org
-0.0.0.0 www.sourmath.com
-0.0.0.0 www.strawpoii.me
-0.0.0.0 www.suckdude.com
-0.0.0.0 www.thatsjustgay.com
-0.0.0.0 www.thatsphucked.com
-0.0.0.0 www.theexgirlfriends.com
-0.0.0.0 www.thehomo.org
-0.0.0.0 www.themacuser.org
-0.0.0.0 www.thepounder.com
-0.0.0.0 www.tubgirl.me
-0.0.0.0 www.tubgirl.org
-0.0.0.0 www.turdgasm.com
-0.0.0.0 www.vomitgirl.org
-0.0.0.0 www.walkthedinosaur.com
-0.0.0.0 www.whipcrack.org
-0.0.0.0 www.wormgush.com
-0.0.0.0 www.xvideoslive.com
-0.0.0.0 www.youaresogay.com
-0.0.0.0 www.ypmate.com
-0.0.0.0 www.zentastic.com
-0.0.0.0 youaresogay.com
-0.0.0.0 zentastic.com
-#</shock-sites>
-
 #<shortcut-examples>
 # As well by specifying the ipaddress of a server, you can gain access
 #   to some of your favourite sites with a single letter, instead of
@@ -336,6 +148,7 @@ ff02::3		ip6-allhosts
 #0.0.0.0 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
 #0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
 #0.0.0.0 pro.hit.gemius.pl	# May interfere with some video sites
+#0.0.0.0 s.youtube.com				# Blocking this will interfere with video watching history and may interfere with Google Podcasts
 #0.0.0.0 services.krxd.net
 #0.0.0.0 stats.channel4.com
 #0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
@@ -437,12 +250,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 bigdata.advmob.cn
 0.0.0.0 bindedge.com
 0.0.0.0 bindfast.com
+0.0.0.0 biomagin.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bleachbit.com
 0.0.0.0 bluekai.com
 0.0.0.0 bluestreak.com
 0.0.0.0 brightroll.com
 0.0.0.0 brucelead.com
+0.0.0.0 bullionglidingscuttle.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.statcounter.com
 0.0.0.0 c.thecounter.de
@@ -1054,7 +869,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 s.clickability.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.update.fbsbx.com 
-0.0.0.0 s.youtube.com				# Blocking this will interfere with video watching history and may interfere with Google Podcasts
 0.0.0.0 s1-tracking.adalyser.com
 0.0.0.0 s1.shinystat.it
 0.0.0.0 s10.histats.com
@@ -1201,6 +1015,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 statse.webtrendslive.com	# Fortune.com among others
 0.0.0.0 stl.p.a1.traceworks.com
 0.0.0.0 straighttangerine.cz.cc
+0.0.0.0 stratus.campaign-image.com.cn
 0.0.0.0 sugoicounter.com
 0.0.0.0 superstats.com
 0.0.0.0 sync.bfmio.com
@@ -1581,6 +1396,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 xtrasizeoriginal.com.br
 0.0.0.0 xxxcounter.com
 0.0.0.0 xyz.freelogs.com
+0.0.0.0 zc1.campaign-view.com.cn
+0.0.0.0 zc1.maillist-manage.com.cn
 0.0.0.0 zz.cqcounter.com
 #</spyware-sites>
 #<malware-sites>
@@ -1872,6 +1689,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 canadapost.helpdag.top
 0.0.0.0 canadapost.postescanadad.xyz
 0.0.0.0 canadapostarticle.com
+0.0.0.0 capital-invest-can.cropvita.sbs
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
 0.0.0.0 carac-terres.fr
@@ -1968,6 +1786,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 consumerspanel.frge.io
 0.0.0.0 cookeatshare.fr
 0.0.0.0 coordino.com
+0.0.0.0 cosi.iprive.net
 0.0.0.0 cosmopolian.fr
 0.0.0.0 cosmopolita.fr
 0.0.0.0 costco-rewardsaccount1.com
@@ -2023,6 +1842,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dfnac.fr
 0.0.0.0 dhauzja511.co.cc
 0.0.0.0 dhlmyorder82662-info-can.com
+0.0.0.0 dig
 0.0.0.0 digiclk.com
 0.0.0.0 digicub.fr
 0.0.0.0 digipote.fr
@@ -2093,6 +1913,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 euriosport.fr
 0.0.0.0 europr1.fr
 0.0.0.0 eurospoprt.fr
+0.0.0.0 eurostreaming.myproxy.help
+0.0.0.0 eurostreaming.superproxy.lol
 0.0.0.0 eviebot.fr
 0.0.0.0 ewea.fr
 0.0.0.0 exasked.com
@@ -2200,6 +2022,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 giulli.fr
 0.0.0.0 glassjaw.fr
 0.0.0.0 globaldrugsurvey.fr
+0.0.0.0 gmailapcq6.eblink5.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 goggle.com
 0.0.0.0 goobbe.com
@@ -2217,10 +2040,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 grossiste3d.fr
 0.0.0.0 groupeauto.fr
 0.0.0.0 groupom.fr
+0.0.0.0 gstscra.com
 0.0.0.0 gtamoding.fr
 0.0.0.0 guidelon.fr
 0.0.0.0 guiltygear.fr
 0.0.0.0 gv-1nt3rc.com
+0.0.0.0 gwene.com.slackware.alien.blog
 0.0.0.0 gwklaser.fr
 0.0.0.0 gyros.es
 0.0.0.0 h9tkd.rdtk.io
@@ -2307,6 +2132,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 install.myvideotab.com
 0.0.0.0 installmac.com
 0.0.0.0 instantstreetview.fr
+0.0.0.0 intelcom-on.progressionlive.com
+0.0.0.0 intelcomasfcmscta.com
 0.0.0.0 interac-etransfer.net
 0.0.0.0 interac1-ssl2.info
 0.0.0.0 interacpayment-cra.com
@@ -2625,6 +2452,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mv0129.stream
 0.0.0.0 mvspjwd.com
 0.0.0.0 mx1.freemail.ne.jp
+0.0.0.0 mybancoschiles.gets-it.net
 0.0.0.0 mycaal.fr
 0.0.0.0 mycnal.fr
 0.0.0.0 mydreamday.fr
@@ -2842,6 +2670,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 purchasingpower.fr
 0.0.0.0 purepods.fr
 0.0.0.0 qbittorrent.com
+0.0.0.0 qdssy.balistrera.sbs
 0.0.0.0 qevia.doubleclick.bond
 0.0.0.0 qfsya.comfortykive.xyz
 0.0.0.0 qouv.fr
@@ -2883,12 +2712,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 resultatspmu.fr
 0.0.0.0 retaildetail.fr
 0.0.0.0 retrofuture.fr
+0.0.0.0 return2025costco.com
 0.0.0.0 rev-cvnada-dep.com
 0.0.0.0 rezeptwelt.fr
 0.0.0.0 rgp-ign.fr
 0.0.0.0 rickrolling.com
 0.0.0.0 rifec.co
 0.0.0.0 rimnow.fr
+0.0.0.0 riosaladohp.com
 0.0.0.0 robertgraham.fr
 0.0.0.0 rockrose.fr
 0.0.0.0 rocks.io
@@ -3075,6 +2906,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 thunderbird.es
 0.0.0.0 tibs.fr
 0.0.0.0 ticketforchange.fr
+0.0.0.0 ticketpayfee.com
 0.0.0.0 ticketspy.fr
 0.0.0.0 tiku.io
 0.0.0.0 timberlande.fr
@@ -3121,6 +2953,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 uni-littoral.fr
 0.0.0.0 uniguide.fr
 0.0.0.0 unitdotto.club
+0.0.0.0 united-domaine.tech
 0.0.0.0 univ-murs.fr
 0.0.0.0 univ-paris-didero.fr
 0.0.0.0 univ-pars1.fr
@@ -3143,12 +2976,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 utenti.lycos.it
 0.0.0.0 utrace.fr
 0.0.0.0 van-city-sign-on.com
+0.0.0.0 vc-login.com
 0.0.0.0 vcarrefour.fr
 0.0.0.0 venturead.com
 0.0.0.0 verify.rambler-profile.site
 0.0.0.0 versbaudet.fr
 0.0.0.0 vfzzs.comfortykive.xyz
 0.0.0.0 vgsnf.comfortykive.xyz
+0.0.0.0 vi-improved.org
 0.0.0.0 viad.fr
 0.0.0.0 videoamp.com
 0.0.0.0 videofitness.fr
@@ -3307,7 +3142,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
-0.0.0.0 www.mywot.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.nu26.com
@@ -3323,6 +3157,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
 0.0.0.0 www.proflashdata.com			# Facebook trojan
+0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.qbittorrent.com
 0.0.0.0 www.randki-sex.com
@@ -4761,14 +4596,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.baidu.com
-0.0.0.0 a.blesk.cz 
+0.0.0.0 a.blesk.cz
 0.0.0.0 a.boom.ro
 0.0.0.0 a.cctv.com
-0.0.0.0 a.centrum.cz 
+0.0.0.0 a.centrum.cz
 0.0.0.0 a.cntv.cn
-0.0.0.0 a.denik.cz 
+0.0.0.0 a.denik.cz
 0.0.0.0 a.dynad.net
-0.0.0.0 a.iprima.cz 
+0.0.0.0 a.iprima.cz
 0.0.0.0 a.kerg.net
 0.0.0.0 a.libertystmedia.com
 0.0.0.0 a.ligatus.com
@@ -5575,6 +5410,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads.morningstar.com
 0.0.0.0 ads.mouseplanet.com
 0.0.0.0 ads.movieweb.com
+0.0.0.0 ads.mozilla.org
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp3searchy.com
 0.0.0.0 ads.mtv.uol.com.br
@@ -5839,6 +5675,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads20.focalink.com
 0.0.0.0 ads21.focalink.com
 0.0.0.0 ads22.focalink.com
+0.0.0.0 ads22.host-cdn.net
 0.0.0.0 ads23.focalink.com
 0.0.0.0 ads24.focalink.com
 0.0.0.0 ads24.net
@@ -6508,6 +6345,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 bell.adcentriconline.com
 0.0.0.0 benimreklam.com
+0.0.0.0 bespokeshirtsmail.com
 0.0.0.0 best2017games.com
 0.0.0.0 best2019-games-web1.com
 0.0.0.0 best2020-games-web1.com
@@ -6623,6 +6461,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 c.adexchangemachine.com
 0.0.0.0 c.admob.com
 0.0.0.0 c.adroll.com
+0.0.0.0 c.adsco.re
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.anytrx.com
 0.0.0.0 c.ar.msn.com
@@ -7736,6 +7575,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 images.jambocast.com
 0.0.0.0 images.linkwithin.com
 0.0.0.0 images.mbuyu.nl
+0.0.0.0 images.mediago.io
 0.0.0.0 images.netcomvad.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.outbrainimg.com
@@ -8353,6 +8193,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ms-shopguide.su
 0.0.0.0 ms-shopzone.su
 0.0.0.0 ms.yandex.ru
+0.0.0.0 msft-ssp-emea.adnxs.com
 0.0.0.0 mslinks-downloads.com
 0.0.0.0 msn-cdn.effectivemeasure.net
 0.0.0.0 msn.tns-cs.net
@@ -8601,6 +8442,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 orpheus.cuci.nl
 0.0.0.0 osd-onead.cdn.hinet.net
 0.0.0.0 osm-onead.cdn.hinet.net
+0.0.0.0 otakutee.com
 0.0.0.0 otletdivak.hu
 0.0.0.0 otpercpiheno.blogspot.com
 0.0.0.0 otpercpiheno.hu
@@ -8910,6 +8752,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ps.eyeota.net
 0.0.0.0 ps.popcash.net
 0.0.0.0 ps4ux.com
+0.0.0.0 psoabojaksou.net
 0.0.0.0 pstatic.datafastguru.info
 0.0.0.0 pt-gmtdmp.mookie1.com
 0.0.0.0 pt.beststreams.club
@@ -9143,6 +8986,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 s.atemda.com
 0.0.0.0 s.baidu.com
 0.0.0.0 s.boom.ro
+0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.clicktale.net
 0.0.0.0 s.di.com.pl
@@ -9733,6 +9577,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.joker.com
 0.0.0.0 tracking.keywordmax.com
+0.0.0.0 tracking.scientific-meets.com
 0.0.0.0 tracking.truthfinder.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.veoxa.com
@@ -10627,6 +10472,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rewardsflow.com
 0.0.0.0 www.ringtonepartner.com
 0.0.0.0 www.riskybus.f9.co.uk
+0.0.0.0 www.ritikhush.com
 0.0.0.0 www.robm674.plus.com
 0.0.0.0 www.romepartners.com
 0.0.0.0 www.roulettebotplus.com
@@ -10934,6 +10780,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 youfck.com
 0.0.0.0 your-gift-zone.com
 0.0.0.0 your.dailytopdealz.com
+0.0.0.0 youradexchange.com
 0.0.0.0 yourgascards.com
 0.0.0.0 yourgiftrewards.com
 0.0.0.0 yourgiftzone.com
@@ -10942,7 +10789,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 yoursmartrewards.com
 0.0.0.0 ysiu.freenation.com
 0.0.0.0 yt-adblocker.com
-0.0.0.0 yu.ac.kr
 0.0.0.0 yumenetworks.com
 0.0.0.0 yx-in-f108.1e100.net
 0.0.0.0 z-na.amazon-adsystem.com
@@ -12059,6 +11905,194 @@ ff02::3		ip6-allhosts
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 #</Windows10>
+
+#<shock-sites>
+# For example, to block unpleasant pages, try:
+0.0.0.0 goatse.cx       # More information on sites such as 
+0.0.0.0 www.goatse.cx   # these can be found in this article
+0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
+0.0.0.0 www.oralse.cx
+0.0.0.0 goatse.ca
+0.0.0.0 www.goatse.ca
+0.0.0.0 oralse.ca
+0.0.0.0 www.oralse.ca
+0.0.0.0 goat.cx
+0.0.0.0 www.goat.cx
+0.0.0.0 shafou.com
+0.0.0.0 www.shafou.com
+0.0.0.0 1girl1pitcher.com
+0.0.0.0 1girl1pitcher.org
+0.0.0.0 1guy1cock.com
+0.0.0.0 1man1jar.org
+0.0.0.0 1man2needles.com
+0.0.0.0 1priest1nun.com
+0.0.0.0 1priest1nun.net
+0.0.0.0 2girls1cup-free.com
+0.0.0.0 2girls1cup.cc
+0.0.0.0 2girls1cup.com
+0.0.0.0 2girls1cup.nl
+0.0.0.0 2girls1cup.ws
+0.0.0.0 2girls1finger.com
+0.0.0.0 2girls1finger.org
+0.0.0.0 2guys1stump.org
+0.0.0.0 3guys1hammer.ws
+0.0.0.0 4girlsfingerpaint.com
+0.0.0.0 4girlsfingerpaint.org
+0.0.0.0 bagslap.com
+0.0.0.0 ballsack.org
+0.0.0.0 bestgore.fun
+0.0.0.0 bestshockers.com
+0.0.0.0 bluewaffle.biz
+0.0.0.0 bottleguy.com
+0.0.0.0 bowlgirl.com
+0.0.0.0 cadaver.org
+0.0.0.0 clownsong.com
+0.0.0.0 cyberscat.com
+0.0.0.0 dadparty.com
+0.0.0.0 detroithardcore.com
+0.0.0.0 donotwatch.org
+0.0.0.0 dontwatch.us
+0.0.0.0 eelsoup.net
+0.0.0.0 fruitlauncher.com
+0.0.0.0 funnelchair.com
+0.0.0.0 goatse.bz
+0.0.0.0 goatse.ru
+0.0.0.0 goatsegirl.org
+0.0.0.0 hai2u.com
+0.0.0.0 homewares.org
+0.0.0.0 howtotroll.org
+0.0.0.0 japscat.org
+0.0.0.0 jarsquatter.com
+0.0.0.0 jiztini.com
+0.0.0.0 kids-in-sandbox.com
+0.0.0.0 kidsinsandbox.info
+0.0.0.0 lemonparty.biz
+0.0.0.0 lemonparty.org
+0.0.0.0 lolhello.com
+0.0.0.0 lolshock.com
+0.0.0.0 loltrain.com
+0.0.0.0 meatspin.biz
+0.0.0.0 meatspin.com
+0.0.0.0 merryholidays.org
+0.0.0.0 milkfountain.com
+0.0.0.0 mudfall.com
+0.0.0.0 mudmonster.org
+0.0.0.0 nimp.org
+0.0.0.0 nobrain.dk
+0.0.0.0 nutabuse.com
+0.0.0.0 octopusgirl.com
+0.0.0.0 on.nimp.org
+0.0.0.0 painolympics.info
+0.0.0.0 painolympics.org
+0.0.0.0 phonejapan.com
+0.0.0.0 pnrtscr.com
+0.0.0.0 pressurespot.com
+0.0.0.0 prolapseman.com
+0.0.0.0 scrollbelow.com
+0.0.0.0 selfpwn.org
+0.0.0.0 shockgore.com
+0.0.0.0 sourmath.com
+0.0.0.0 strawpoii.me
+0.0.0.0 suckdude.com
+0.0.0.0 thatsjustgay.com
+0.0.0.0 thatsphucked.com
+0.0.0.0 thehomo.org
+0.0.0.0 themacuser.org
+0.0.0.0 thepounder.com
+0.0.0.0 tubgirl.me
+0.0.0.0 tubgirl.org
+0.0.0.0 turdgasm.com
+0.0.0.0 vomitgirl.org
+0.0.0.0 walkthedinosaur.com
+0.0.0.0 whipcrack.org
+0.0.0.0 wormgush.com
+0.0.0.0 www.1girl1pitcher.org
+0.0.0.0 www.1guy1cock.com
+0.0.0.0 www.1man1jar.org
+0.0.0.0 www.1man2needles.com
+0.0.0.0 www.1priest1nun.com
+0.0.0.0 www.1priest1nun.net
+0.0.0.0 www.2girls1cup-free.com
+0.0.0.0 www.2girls1cup.cc
+0.0.0.0 www.2girls1cup.nl
+0.0.0.0 www.2girls1cup.ws
+0.0.0.0 www.2girls1finger.org
+0.0.0.0 www.2guys1stump.org
+0.0.0.0 www.3guys1hammer.ws
+0.0.0.0 www.4girlsfingerpaint.org
+0.0.0.0 www.bagslap.com
+0.0.0.0 www.ballsack.org
+0.0.0.0 www.bestshockers.com
+0.0.0.0 www.bluewaffle.biz
+0.0.0.0 www.bottleguy.com
+0.0.0.0 www.bowlgirl.com
+0.0.0.0 www.cadaver.org
+0.0.0.0 www.clownsong.com
+0.0.0.0 www.cyberscat.com
+0.0.0.0 www.dadparty.com
+0.0.0.0 www.detroithardcore.com
+0.0.0.0 www.donotwatch.org
+0.0.0.0 www.dontwatch.us
+0.0.0.0 www.eelsoup.net
+0.0.0.0 www.fruitlauncher.com
+0.0.0.0 www.funnelchair.com
+0.0.0.0 www.goatse.bz
+0.0.0.0 www.goatse.ru
+0.0.0.0 www.goatsegirl.org
+0.0.0.0 www.hai2u.com
+0.0.0.0 www.homewares.org
+0.0.0.0 www.howtotroll.org
+0.0.0.0 www.japscat.org
+0.0.0.0 www.jiztini.com
+0.0.0.0 www.kids-in-sandbox.com
+0.0.0.0 www.kidsinsandbox.info
+0.0.0.0 www.lemonparty.biz
+0.0.0.0 www.lemonparty.org
+0.0.0.0 www.lolhello.com
+0.0.0.0 www.lolshock.com
+0.0.0.0 www.loltrain.com
+0.0.0.0 www.meatspin.biz
+0.0.0.0 www.meatspin.com
+0.0.0.0 www.merryholidays.org
+0.0.0.0 www.milkfountain.com
+0.0.0.0 www.mudfall.com
+0.0.0.0 www.mudmonster.org
+0.0.0.0 www.nimp.org
+0.0.0.0 www.nobrain.dk
+0.0.0.0 www.nutabuse.com
+0.0.0.0 www.octopusgirl.com
+0.0.0.0 www.on.nimp.org
+0.0.0.0 www.painolympics.info
+0.0.0.0 www.painolympics.org
+0.0.0.0 www.phonejapan.com
+0.0.0.0 www.pressurespot.com
+0.0.0.0 www.prolapseman.com
+0.0.0.0 www.punishtube.com
+0.0.0.0 www.scrollbelow.com
+0.0.0.0 www.selfpwn.org
+0.0.0.0 www.sourmath.com
+0.0.0.0 www.strawpoii.me
+0.0.0.0 www.suckdude.com
+0.0.0.0 www.thatsjustgay.com
+0.0.0.0 www.thatsphucked.com
+0.0.0.0 www.theexgirlfriends.com
+0.0.0.0 www.thehomo.org
+0.0.0.0 www.themacuser.org
+0.0.0.0 www.thepounder.com
+0.0.0.0 www.tubgirl.me
+0.0.0.0 www.tubgirl.org
+0.0.0.0 www.turdgasm.com
+0.0.0.0 www.vomitgirl.org
+0.0.0.0 www.walkthedinosaur.com
+0.0.0.0 www.whipcrack.org
+0.0.0.0 www.wormgush.com
+0.0.0.0 www.xvideoslive.com
+0.0.0.0 www.youaresogay.com
+0.0.0.0 www.ypmate.com
+0.0.0.0 www.zentastic.com
+0.0.0.0 youaresogay.com
+0.0.0.0 zentastic.com
+#</shock-sites>
 
 # Acknowledgements
 # I'd like to thank the following people for submitting sites, and
