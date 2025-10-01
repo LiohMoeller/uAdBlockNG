@@ -1,5 +1,5 @@
 ---
-framework: ubuntu-sdk-24.04
+framework: ubuntu-touch-24.04-1.x
 builder: cmake
 always_clean: true
 skip_review: true
