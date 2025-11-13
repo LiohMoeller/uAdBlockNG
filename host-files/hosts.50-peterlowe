@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 10 Nov 2025 07:51:02 GMT
-# entries:        3475
+# last updated:   Wed, 12 Nov 2025 19:49:16 GMT
+# entries:        3478
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1459,6 +1459,7 @@
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 deployads.com
+127.0.0.1 desertgates.com
 127.0.0.1 desiredirt.com
 127.0.0.1 detailedgovernment.com
 127.0.0.1 detectdiscovery.com
@@ -1672,6 +1673,7 @@
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpjs.io
 127.0.0.1 fqtag.com
+127.0.0.1 fraysystems.com
 127.0.0.1 free-counter.co.uk
 127.0.0.1 freebanner.com
 127.0.0.1 freecounterstat.com
@@ -2278,6 +2280,7 @@
 127.0.0.1 mylink-today.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypowermall.com
+127.0.0.1 mysketchpad.com
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
