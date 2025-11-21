@@ -43,6 +43,7 @@ signals:
 
 public slots:
     void execute(const QString &cmdLine);
+    int shell(const QString &cmdLine);
     void sudo(const QString &cmdLine);
     void SetPassword(QString &pass);
 
