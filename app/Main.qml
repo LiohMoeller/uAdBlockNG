@@ -27,9 +27,9 @@ MainView {
     property var source: 'https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/master/host-files/hosts'
     property var updateFile: "https://raw.githubusercontent.com/LiohMoeller/uAdBlockNG/master/host-files/updated"
     property var target: '/etc/hosts'
-    property var blocklist: '/etc/hosts.blocklist'
-    property var blocklistEnabled: '/etc/hosts.blocklist-enabled'
-    property var original: '/etc/hosts.without-adblock'
+    property var workDir: '/var/lib/misc/uAdBlockNG'
+    property var blocklist: '/var/lib/misc/uAdBlockNG/hosts.blocklist'
+    property var original: '/var/lib/misc/uAdBlockNG/hosts.without-adblock'
     property var types: ["ad", "fakenews", "gambling", "porn", "social"]
     property var prettyTypes: {
       "ad": "Adware and Malware",
@@ -68,7 +68,7 @@ MainView {
     }
 
     function done(){
-        uBlockEnabled = cmd.fileExists(blocklistEnabled)
+        uBlockEnabled = (cmd.shell("cmp " + target + " " + blocklist) == 0)
         if (uBlockEnabled) {
             settings.lastUpdate = Date.now()/1000
             lastUpdated.value = timeConverter(settings.lastUpdate)
@@ -80,27 +80,30 @@ MainView {
         cmdList.push(cmd)
     }
 
-    function mount(){
+    function optional_mount(){
+        const hostsInWritablePath = (cmd.shell("mountpoint -q /etc/hosts") == 0);
+        if (hostsInWritablePath)
+            return;
+
         sudo("mount -o rw,remount /")
     }
 
     function block(){
         aIndicator.visible = true;
-        mount()
+        optional_mount()
+        sudo("mkdir -p " + workDir);
         sudo("wget " + source + " -O " + blocklist)
         if (!cmd.fileExists(original))
             sudo("cp " + target + " " + original)
 
         sudo("cp " + blocklist + " " + target)
-        sudo("touch "+ blocklistEnabled)
         nextCmd()
     }
 
     function unblock(){
         aIndicator.visible = true;
-        mount()
+        optional_mount()
         sudo("cp " + original + " " + target)
-        sudo("rm "+ blocklistEnabled)
         nextCmd()
     }
 
@@ -190,7 +193,7 @@ MainView {
                         }
                     }
                     Component.onCompleted: {
-                        uBlockEnabled = cmd.fileExists(blocklistEnabled)
+                        uBlockEnabled = (cmd.shell("cmp " + target + " " + blocklist) == 0)
                     }
                 }
 
