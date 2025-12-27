@@ -87,7 +87,7 @@ MainView {
     function block(){
         aIndicator.visible = true;
         mount()
-        sudo("wget " + source + " -O " + blocklist)
+        sudo("wget --prefer-family=IPv4 " + source + " -O " + blocklist)
         if (!cmd.fileExists(original))
             sudo("cp " + target + " " + original)
 
@@ -235,7 +235,7 @@ MainView {
                     id: error
                     anchors {
                         horizontalCenter: parent.horizontalCenter
-                        top: button.bottom
+                        top: parent.top
                     }
                 }
 
