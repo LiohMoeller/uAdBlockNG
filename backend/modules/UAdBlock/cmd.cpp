@@ -69,16 +69,15 @@ void Cmd::execute(const QString &cmdLine)
 
 int Cmd::shell(const QString &cmdLine)
 {
-    QStringList args = cmdLine.split(" ");
-    if (list.count() > 0) {
+    QStringList args = cmdLine.split(' ', Qt::SkipEmptyParts);
+    if (args.count() > 0) {
         const QString prog = args.takeFirst();
         QProcess proc;
         proc.start(prog, args);
         proc.waitForFinished();
         return proc.exitCode();
-    } else {
-        return 1;
     }
+    return 1;
 }
 
 void Cmd::sudo(const QString &cmdLine)
