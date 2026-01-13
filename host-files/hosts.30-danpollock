@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 10 Jan 2026 at 05:02:34 GMT
+# Last updated: Tue, 13 Jan 2026 at 19:25:54 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1893,6 +1893,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 emplpoi-store.fr
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
+0.0.0.0 enablement.joethecpa.info
 0.0.0.0 enalytics.fr
 0.0.0.0 endicia.fr
 0.0.0.0 englishcentral.fr
@@ -2336,6 +2337,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 magasine-omnicuiseur.fr
 0.0.0.0 magento-analytics.com
 0.0.0.0 magic-flight.fr
+0.0.0.0 magicpayrecharge.com
 0.0.0.0 maia-asso.fr
 0.0.0.0 mail-en-marche.fr
 0.0.0.0 mail.bangla.net
@@ -2362,6 +2364,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mappyt.fr
 0.0.0.0 marathondulacduder.fr
 0.0.0.0 marie-gerardmer.fr
+0.0.0.0 marigo.redbacksburger.info
 0.0.0.0 marinescence.fr
 0.0.0.0 marketgameland.com
 0.0.0.0 massage-v-almaty.kz
@@ -2578,7 +2581,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 pamini.fr
 0.0.0.0 panimi.fr
 0.0.0.0 pantaya.fr
+0.0.0.0 paradise.homemortgageblog.info
 0.0.0.0 paris-banlieue-meetinggame.fr
+0.0.0.0 passport.acla.org.cn
 0.0.0.0 passportindex.fr
 0.0.0.0 payments-details.com
 0.0.0.0 payplintelverify3.site
@@ -2943,6 +2948,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trovi.com
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
+0.0.0.0 tubero.ellystegge.info
 0.0.0.0 tubr8.fr
 0.0.0.0 tuniaf.com
 0.0.0.0 turfomani.fr
@@ -2976,6 +2982,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
 0.0.0.0 uqz.com
 0.0.0.0 urbact.fr
+0.0.0.0 url3781.host.inreception.com
 0.0.0.0 url9810.tokocrypto.com
 0.0.0.0 urssff.fr
 0.0.0.0 urzl.fr
@@ -3111,6 +3118,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.e-transfer-cra.com
+0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
@@ -3192,6 +3200,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thunderbird.es
+0.0.0.0 www.tiompanalley.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.tvshowslist.com
@@ -3213,6 +3222,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
