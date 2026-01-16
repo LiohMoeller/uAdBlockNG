@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 13 Jan 2026 at 19:25:54 GMT
+# Last updated: Fri, 16 Jan 2026 at 19:23:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2292,6 +2292,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 lifefoot.fr
 0.0.0.0 lifeofpie.fr
 0.0.0.0 lifigaro.fr
+0.0.0.0 lifsfer.shop
 0.0.0.0 like.likewut.net
 0.0.0.0 likeportal.com			# Facebook trojan
 0.0.0.0 likespike.com				# Facebook trojan
@@ -2479,6 +2480,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 n1up.fr
 0.0.0.0 nactx.com
 0.0.0.0 naissaance.fr
+0.0.0.0 nakshatra.northeastrail.info
 0.0.0.0 nameketathar.pro
 0.0.0.0 nantesmetrople.fr
 0.0.0.0 nantilus.fr
@@ -2678,6 +2680,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 provenfeedback.com
 0.0.0.0 psycho-test.fr
 0.0.0.0 ptagercity.fr
+0.0.0.0 pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 0.0.0.0 pullipstyle.fr
 0.0.0.0 puppygames.fr
 0.0.0.0 puppylover.fr
@@ -2864,6 +2867,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 stswen.fr
 0.0.0.0 subcreation.fr
 0.0.0.0 suddenplot.com
+0.0.0.0 suenosurcolchones.com.ar.abakotest.com.ar
 0.0.0.0 suicidaltendencies.fr
 0.0.0.0 sumofus.fr
 0.0.0.0 sunhe.jinr.ru
@@ -2887,6 +2891,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tahoesup.com
 0.0.0.0 tanieaukcje.com
 0.0.0.0 taniezakupy.pl
+0.0.0.0 tarbosau.bbqpitcleaners.info
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 tax-canada2023.co
 0.0.0.0 tbebestknives.fr
@@ -2927,6 +2932,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tiku.io
 0.0.0.0 timberlande.fr
 0.0.0.0 tiplanet.fr
+0.0.0.0 tnews.day
 0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 toppillstore.com
@@ -3116,10 +3122,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
+0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.faggotry.com
+0.0.0.0 www.fenquavo.com
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
