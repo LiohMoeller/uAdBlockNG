@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 25 Jan 2026 at 18:05:04 GMT
+# Last updated: Wed, 28 Jan 2026 at 17:55:15 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1815,12 +1815,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 cuder.fr
 0.0.0.0 cullligan.fr
 0.0.0.0 culturalfoundation.fr
+0.0.0.0 cun.accountcare.cfd
 0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
 0.0.0.0 d.phormlabs.com
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
+0.0.0.0 dahenie.accsvc.cfd
 0.0.0.0 dailygame.fr
 0.0.0.0 dailynewstonight.com
 0.0.0.0 dartry.fr
@@ -2456,6 +2458,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 motoetloisir.fr
 0.0.0.0 movies.701pages.com
 0.0.0.0 moviestarpllanet.fr
+0.0.0.0 movvx.accunit.cfd
 0.0.0.0 mp3red.cc
 0.0.0.0 mpappy.fr
 0.0.0.0 mr-ginseng.fr
@@ -2665,6 +2668,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 poweroff.pt
 0.0.0.0 powertrfic.fr
 0.0.0.0 ppoi.org
+0.0.0.0 pr-wealth.in
 0.0.0.0 predictiondisplay.com
 0.0.0.0 predictivadnetwork.com
 0.0.0.0 premium-live-scan.com
@@ -2726,6 +2730,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 redelivercadpost.com
 0.0.0.0 redelivtls.online
 0.0.0.0 redf.fr
+0.0.0.0 redircpapp.co.za
 0.0.0.0 redline-boutique.fr
 0.0.0.0 redrocks.fr
 0.0.0.0 reductions-impots.fr
@@ -3065,6 +3070,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 weapfuh.originalriver-tone.top
 0.0.0.0 webassembly.stream
 0.0.0.0 webatic.fr
+0.0.0.0 webmail.grahachemical.co.id
 0.0.0.0 webmedic.fr
 0.0.0.0 webnetra.entelnet.bo
 0.0.0.0 webpaypal.com
@@ -3140,6 +3146,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
+0.0.0.0 www.darkrro.com
 0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.dewwillowwj.site
 0.0.0.0 www.didata.bw
@@ -3159,6 +3166,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.froling.bee.pl
+0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.getnexuscard.com
 0.0.0.0 www.gezinti.com
@@ -3172,10 +3180,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
 0.0.0.0 www.hashing.win
+0.0.0.0 www.helvax.cfd
 0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.icecars.com
 0.0.0.0 www.igameup.com
 0.0.0.0 www.infopaypal.com
+0.0.0.0 www.informecadastral.com
 0.0.0.0 www.informereng.com
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
@@ -3188,6 +3198,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
+0.0.0.0 www.leeucode.com
 0.0.0.0 www.likeportal.com			# Facebook trojan
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
@@ -3202,6 +3213,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mycolonialpenm.com
+0.0.0.0 www.myexotel.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.notepad2.com
@@ -3213,9 +3225,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
+0.0.0.0 www.paramutplus.com
+0.0.0.0 www.paviro.cfd
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.picture-uploads.com
 0.0.0.0 www.portaldimensional.com
+0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
 0.0.0.0 www.proflashdata.com			# Facebook trojan
@@ -3224,7 +3239,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.qbittorrent.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.randki-sex.com
+0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rickrolling.com
+0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.securityscan.us
@@ -3238,6 +3255,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.swallowwire.sa.com
+0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
@@ -3263,6 +3281,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.wifimarfixhotspot.com
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winlottofrequently.com
 0.0.0.0 www.yendermsoul.com
@@ -3295,6 +3314,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 zalanado.fr
 0.0.0.0 zalandon.fr
 0.0.0.0 zb1.zeroredirect1.com
+0.0.0.0 zealous-push.surge.sh
 0.0.0.0 zendictees.fr
 0.0.0.0 zenigameblinger.org
 0.0.0.0 zettapetta.com
@@ -10247,6 +10267,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ebayadservices.com
 0.0.0.0 www.ebayadvertising.com
 0.0.0.0 www.ebaybanner.com
+0.0.0.0 www.ecoledessciences.com
 0.0.0.0 www.edv-waldherr.at
 0.0.0.0 www.emadesign.net
 0.0.0.0 www.emarketmakers.com
