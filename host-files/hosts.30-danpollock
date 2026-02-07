@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 04 Feb 2026 at 17:42:30 GMT
+# Last updated: Sat, 07 Feb 2026 at 17:52:36 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1680,6 +1680,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 caeauxfolies.fr
 0.0.0.0 cafe-express.fr
 0.0.0.0 cafecoc.com
+0.0.0.0 cafhanoi.dorps.info
 0.0.0.0 cafj.fr
 0.0.0.0 cafranchecomte.fr
 0.0.0.0 caisse-apargne.fr
@@ -1818,6 +1819,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 crouslyon.fr
 0.0.0.0 crpo.fr
 0.0.0.0 crypto-loot.com
+0.0.0.0 ctmsapp.com
 0.0.0.0 cuder.fr
 0.0.0.0 cullligan.fr
 0.0.0.0 culturalfoundation.fr
@@ -2212,6 +2214,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 kitchenmagic.fr
 0.0.0.0 klefigaro.fr
 0.0.0.0 kleinfelder.fr
+0.0.0.0 kliniksam.com
 0.0.0.0 klove.fr
 0.0.0.0 klowns4phun.com
 0.0.0.0 konflow.com				# Facebook trojan
@@ -2544,6 +2547,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ns1.webwise.org
 0.0.0.0 ns2.webwise.org
 0.0.0.0 ns2.xidian.edu.cn
+0.0.0.0 nt.new-cars.com.es
 0.0.0.0 ntralpenedhy.pro
 0.0.0.0 nuitphilo-ens.fr
 0.0.0.0 oclopes.fr
@@ -2747,6 +2751,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 refund-int3rac.com
 0.0.0.0 regclassboard.com
 0.0.0.0 reliezvous.fr
+0.0.0.0 renacious.nwwadq.cn
 0.0.0.0 renov-landes.fr
 0.0.0.0 rentacars.fr
 0.0.0.0 rentamotorcycle.fr
@@ -2885,6 +2890,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 star-iptv.fr
 0.0.0.0 starbuckssurvey.life
 0.0.0.0 startmarket.su
+0.0.0.0 stationpack.de
 0.0.0.0 statutorjuihui.site
 0.0.0.0 stay.decentralappps.com
 0.0.0.0 steelbitepro24.com
@@ -3024,6 +3030,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 urssff.fr
 0.0.0.0 urzl.fr
 0.0.0.0 usbf.fr
+0.0.0.0 usdeeds.acemlna.com
 0.0.0.0 users16.jabry.com
 0.0.0.0 usoasopersbe.xyz
 0.0.0.0 ut1-capitole.fr
@@ -3143,6 +3150,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bigantstore.com
 0.0.0.0 www.blender3d.fr
+0.0.0.0 www.brandsclothingco.com
 0.0.0.0 www.brightstardv.pro
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.bvcnle.cfd
@@ -3164,6 +3172,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.cpatglobal.com
+0.0.0.0 www.cprcar.com
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dejamesertuvoz.com
@@ -3223,8 +3232,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.kindwebdg.site
+0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
+0.0.0.0 www.lahoreautismcentre.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.leeucode.com
 0.0.0.0 www.likeportal.com			# Facebook trojan
@@ -3233,12 +3244,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.likethislist.biz			# Facebook trojan
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.magento-analytics.com
+0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.monkeyball.osa.pl
+0.0.0.0 www.monkikitchen.com
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mycolonialpenm.com
 0.0.0.0 www.myexotel.com
@@ -3247,16 +3260,19 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.nu26.com
+0.0.0.0 www.nwbidrtb.com
 0.0.0.0 www.objectopoly.info
 0.0.0.0 www.oix.com
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.otsserver.com
+0.0.0.0 www.outonixan.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.paramutplus.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.phormlabs.com
+0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.picture-uploads.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
@@ -10450,6 +10466,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.heusmarketing.nl
 0.0.0.0 www.hibids10.com
 0.0.0.0 www.hieroglyph.freeuk.com
+0.0.0.0 www.highleycoupons.com
 0.0.0.0 www.hightrafficads.com
 0.0.0.0 www.hiroden-con.jp
 0.0.0.0 www.histats.com
