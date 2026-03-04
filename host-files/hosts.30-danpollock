@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 01 Mar 2026 at 16:44:34 GMT
+# Last updated: Wed, 04 Mar 2026 at 18:41:16 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1974,6 +1974,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fedex-rescheduel-date.com
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 fedgroceryrebate.com
+0.0.0.0 fedi.6751242.cc
 0.0.0.0 feedbackexplorer.com
 0.0.0.0 fengyixin.com
 0.0.0.0 festicolor.fr
@@ -2123,6 +2124,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hlthiliv.shop
 0.0.0.0 hltuup.za.com
 0.0.0.0 hocolats-voisin.fr
+0.0.0.0 homecaremovers-com-wp-admin-img-wp-ico.appwrite.network
 0.0.0.0 hommetendance.fr
 0.0.0.0 honeyburn.za.com
 0.0.0.0 hostify.fr
@@ -2392,6 +2394,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mail.tropmet.res.in
 0.0.0.0 mail1.371.net
 0.0.0.0 maillots-ffoot-actu.fr
+0.0.0.0 mailofficeonline.shop
 0.0.0.0 mailtrack.fr
 0.0.0.0 main.exosrv.com
 0.0.0.0 maisonstravaux.fr
@@ -2497,6 +2500,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ms-shopplus.su
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 msssante.fr
+0.0.0.0 msx.lumena.cfd
 0.0.0.0 mundilite.fr
 0.0.0.0 murcia-ban.es
 0.0.0.0 musculaation.fr
@@ -2551,6 +2555,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 newouest.fr
 0.0.0.0 newsmagic.net
 0.0.0.0 newsquest.fr
+0.0.0.0 nextbitcorp.com
 0.0.0.0 nguyennghi.info
 0.0.0.0 niche247.trade
 0.0.0.0 nikeinc.fr
@@ -2735,6 +2740,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 puppylover.fr
 0.0.0.0 purchasingpower.fr
 0.0.0.0 purepods.fr
+0.0.0.0 pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
 0.0.0.0 qbittorrent.com
 0.0.0.0 qdssy.balistrera.sbs
 0.0.0.0 qevia.doubleclick.bond
@@ -2843,6 +2849,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 secure-royaibnk.com
 0.0.0.0 securedeposit-et.com
 0.0.0.0 securielite.com
+0.0.0.0 security.schwab-5.click
 0.0.0.0 securityscan.us
 0.0.0.0 seebox.fr
 0.0.0.0 seeques.com
@@ -2869,6 +2876,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 shopsm.fr
 0.0.0.0 shoptrends.fr
 0.0.0.0 siexrlypbbvt.com
+0.0.0.0 sig.tecnologicosucre.edu.ec
 0.0.0.0 siliconf.fr
 0.0.0.0 sinera.org
 0.0.0.0 sinochem.fr
@@ -3168,6 +3176,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adshufffle.com
+0.0.0.0 www.aerodriftcore.uk
 0.0.0.0 www.airmedcarennetwork.com
 0.0.0.0 www.airybotsh.pro
 0.0.0.0 www.alexyastro.com
@@ -3187,6 +3196,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.bazarusmassazha.com
 0.0.0.0 www.bbyjgkkdihiyxy.com
+0.0.0.0 www.bcwars.net
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bigantstore.com
@@ -3225,6 +3235,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.consultingbyelevate.com
+0.0.0.0 www.corlythra.uk
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.crowdnestfun.com
@@ -3245,6 +3256,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.edashealthcare.com
 0.0.0.0 www.edwardmartino.com
+0.0.0.0 www.elanactivewear.com
+0.0.0.0 www.energiazoque.com
 0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farnazinternational.com
@@ -3292,6 +3305,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hashing.win
 0.0.0.0 www.hauloot.com
 0.0.0.0 www.helvax.cfd
+0.0.0.0 www.helvora.help
 0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hypeprop.com
@@ -3309,6 +3323,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.irony.world
 0.0.0.0 www.janushnderson.com
 0.0.0.0 www.jeuxfortuna.com
+0.0.0.0 www.jeuxjackpotcasino.com
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.jvidzaixian.com
 0.0.0.0 www.jvzoo.com
@@ -3319,9 +3334,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.khanomtour.com
 0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kittayaroyalbeauty.com
+0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.lahoreautismcentre.com
+0.0.0.0 www.lanaita.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.leeucode.com
 0.0.0.0 www.libanco.com
@@ -3329,6 +3346,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
 0.0.0.0 www.likethislist.biz			# Facebook trojan
+0.0.0.0 www.lockupouseburn.com
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.magento-analytics.com
@@ -3348,6 +3366,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mycolonialpenm.com
 0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
+0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.neonracketpro.com
@@ -3360,12 +3379,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.objectopoly.info
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
+0.0.0.0 www.olimpgokart.com
 0.0.0.0 www.oliviathemes.com
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.oppery.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.outonixan.com
 0.0.0.0 www.pagibigfundservicers.com
+0.0.0.0 www.paintballpins.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.paramutplus.com
@@ -3384,7 +3405,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.pinbroksup.com
 0.0.0.0 www.pintransup.com
 0.0.0.0 www.pintravelup.com
+0.0.0.0 www.pinuperblog.com
 0.0.0.0 www.pinupspinup.com
+0.0.0.0 www.playbestnet.com
+0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portutopcas.com
@@ -3407,6 +3431,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.rickrolling.com
+0.0.0.0 www.rnodernssolution.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.salttm.com
@@ -3420,6 +3445,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.skibidihotel.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
+0.0.0.0 www.snurrlyspin.com
 0.0.0.0 www.softmillon.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.ssl2.in
@@ -3427,6 +3453,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stihil.com
 0.0.0.0 www.stopphoulplay.com
+0.0.0.0 www.stormhelix.uk
 0.0.0.0 www.strongarchzu.com
 0.0.0.0 www.studioorientbay.com
 0.0.0.0 www.swallowwire.sa.com
@@ -3439,9 +3466,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thefriday.net
 0.0.0.0 www.thesecuredtrader.com
+0.0.0.0 www.thisplanet.net
 0.0.0.0 www.thunderbird.es
 0.0.0.0 www.tinkfrog.com
 0.0.0.0 www.tiompanalley.com
+0.0.0.0 www.tntadfacts.com
+0.0.0.0 www.toysmetaverse.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
@@ -3453,6 +3483,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.upi6.pillsstore-c.com		# Facebook trojan
 0.0.0.0 www.uqz.com
 0.0.0.0 www.urldelivery.com
+0.0.0.0 www.vebprostopinup.com
 0.0.0.0 www.ventilationdirec.com
 0.0.0.0 www.venturead.com
 0.0.0.0 www.vetmanevi.com
@@ -3461,6 +3492,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.voolat.com
 0.0.0.0 www.wantsfly.com
+0.0.0.0 www.warrenmovers.net
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.webwise.com
@@ -3488,6 +3520,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 xpx7heciz9.com
 0.0.0.0 xxlargepop.com
 0.0.0.0 yachtingmagazine.fr
+0.0.0.0 yama.myfixhub.cfd
 0.0.0.0 ycapital.fr
 0.0.0.0 yev.moviesdirectpro.com
 0.0.0.0 yexex.comfortykive.xyz
