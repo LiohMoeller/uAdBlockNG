@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 04 Mar 2026 at 18:41:16 GMT
+# Last updated: Sat, 07 Mar 2026 at 19:45:41 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1620,6 +1620,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bioware.fr
 0.0.0.0 biserka.xyz
 0.0.0.0 bitcoin-upappl.com
+0.0.0.0 bitcoinexchangemonero.com
 0.0.0.0 bitcoinplus.com
 0.0.0.0 bitsoin.fr
 0.0.0.0 biucosmetics.fr
@@ -1788,6 +1789,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 coloradosoccerbuddies.acemlna.com
 0.0.0.0 colssimo.fr
 0.0.0.0 comfortykive.xyz
+0.0.0.0 comineeis.vu
 0.0.0.0 commax.fr
 0.0.0.0 commdev.fr
 0.0.0.0 compe-nickel.fr
@@ -1996,6 +1998,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fnactickets.fr
 0.0.0.0 foiegras-groliere.fr
 0.0.0.0 formumactif.fr
+0.0.0.0 forumdread.com
 0.0.0.0 forurm-candaulisme.fr
 0.0.0.0 fourtuneo.fr
 0.0.0.0 foutuneo.fr
@@ -2573,6 +2576,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ns2.xidian.edu.cn
 0.0.0.0 nt.new-cars.com.es
 0.0.0.0 ntralpenedhy.pro
+0.0.0.0 nuclandary.qnfbfs.cn
 0.0.0.0 nuitphilo-ens.fr
 0.0.0.0 oclopes.fr
 0.0.0.0 oechestra.fr
@@ -2591,6 +2595,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 onemanga.fr
 0.0.0.0 onepager.fr
 0.0.0.0 onilne.fr
+0.0.0.0 online.analytiks.click
 0.0.0.0 onlinewebfind.com
 0.0.0.0 onyxboox.fr
 0.0.0.0 oolo.fr
@@ -2980,6 +2985,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 testbook.fr
 0.0.0.0 textbrokr.fr
+0.0.0.0 textion.g9y18u.cn
 0.0.0.0 thailandtravel.live
 0.0.0.0 thainationalparks.fr
 0.0.0.0 thalasur.fr
@@ -3138,6 +3144,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 webwise.com
 0.0.0.0 webwise.net
 0.0.0.0 webwise.org
+0.0.0.0 weddinglovers.pl
 0.0.0.0 wenda.io
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westerdayeol.site
@@ -3174,11 +3181,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.7zip.fr
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.abetterinternet.com
+0.0.0.0 www.abnehmenkabofit.de
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.aerodriftcore.uk
 0.0.0.0 www.airmedcarennetwork.com
 0.0.0.0 www.airybotsh.pro
+0.0.0.0 www.akundu.com
 0.0.0.0 www.alexyastro.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
 0.0.0.0 www.allscrabble.com
@@ -3190,6 +3199,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.asianread.com
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
+0.0.0.0 www.auto-runmz.com
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
@@ -3249,6 +3259,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.didata.bw
 0.0.0.0 www.diffuselec.com
 0.0.0.0 www.digisubmission.com
+0.0.0.0 www.digitalcoachpro.name
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.dymor.cfd
@@ -3271,6 +3282,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.flexibleadmin.com
 0.0.0.0 www.fmoviehd.com
 0.0.0.0 www.fortunoxx.com
+0.0.0.0 www.francesportisas-fr.com
 0.0.0.0 www.frbonusjeux.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
@@ -3280,6 +3292,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gameqnt.com
+0.0.0.0 www.gandiatv.com
 0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.gekorn.com
 0.0.0.0 www.gentleshadeox.pro
@@ -3296,8 +3309,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
+0.0.0.0 www.griffinlist.com
 0.0.0.0 www.grocreyoutlet.com
 0.0.0.0 www.grouphappy.com
+0.0.0.0 www.growthbuilder.name
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
@@ -3309,7 +3324,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hypeprop.com
-0.0.0.0 www.icbc-ltd.com
 0.0.0.0 www.icecars.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
@@ -3322,6 +3336,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.iovenesweb.com
 0.0.0.0 www.irony.world
 0.0.0.0 www.janushnderson.com
+0.0.0.0 www.jessicalonda.com
 0.0.0.0 www.jeuxfortuna.com
 0.0.0.0 www.jeuxjackpotcasino.com
 0.0.0.0 www.jovareo.com
@@ -3337,6 +3352,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
+0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.lahoreautismcentre.com
 0.0.0.0 www.lanaita.com
 0.0.0.0 www.launchbuffer.com
@@ -3353,6 +3369,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
+0.0.0.0 www.markethelper.name
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.milkycascadeut.site
@@ -3361,6 +3378,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.moncasinoonline.com
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monkikitchen.com
+0.0.0.0 www.morvalent.uk
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.msxzff.com
 0.0.0.0 www.mycolonialpenm.com
@@ -3370,6 +3388,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.neonracketpro.com
+0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.nu26.com
@@ -3393,6 +3412,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paviro.cfd
+0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
@@ -3407,6 +3427,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.pintravelup.com
 0.0.0.0 www.pinuperblog.com
 0.0.0.0 www.pinupspinup.com
+0.0.0.0 www.pixquestion.com
 0.0.0.0 www.playbestnet.com
 0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.portaldimensional.com
@@ -3443,6 +3464,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
 0.0.0.0 www.snurrlyspin.com
@@ -3460,7 +3482,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sweetdominique.com
 0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.tanger.com.br
+0.0.0.0 www.tattnexa.tattoo
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
+0.0.0.0 www.techadvisorpro.name
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
@@ -3491,6 +3515,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.voolat.com
+0.0.0.0 www.walkhelp.net
 0.0.0.0 www.wantsfly.com
 0.0.0.0 www.warrenmovers.net
 0.0.0.0 www.webassembly.stream
@@ -3499,8 +3524,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
 0.0.0.0 www.wifimarfixhotspot.com
+0.0.0.0 www.wildriderfuns.com
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.winlottofrequently.com
