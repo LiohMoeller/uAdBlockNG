@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 19 Mar 2026 at 21:54:40 GMT
+# Last updated: Sun, 22 Mar 2026 at 17:20:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1903,6 +1903,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 e-lords.fr
 0.0.0.0 e-trn-incm.com
 0.0.0.0 eaboiretes.com
+0.0.0.0 easewave.digital
 0.0.0.0 east.05tz2e9.com
 0.0.0.0 easyflier.fr
 0.0.0.0 easytic.fr
@@ -2847,6 +2848,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 saicmotor.fr
 0.0.0.0 sajour.fr
 0.0.0.0 salebestever.su
+0.0.0.0 salezone.sa.com
 0.0.0.0 santanderbank.fr
 0.0.0.0 saouryadi.in
 0.0.0.0 sartoriz.fr
@@ -3230,6 +3232,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.azureus.es
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.barjacity.com
+0.0.0.0 www.baseequip.com
 0.0.0.0 www.bazarusmassazha.com
 0.0.0.0 www.bbyjgkkdihiyxy.com
 0.0.0.0 www.bcwars.net
@@ -3277,6 +3280,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cloudverge.uk
 0.0.0.0 www.clubplanning.com
 0.0.0.0 www.coinimp.com
+0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.commuteinfo.com
 0.0.0.0 www.compufixshop.com
@@ -3313,6 +3317,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.exambased.com
 0.0.0.0 www.expolearn.com
 0.0.0.0 www.exteriorteam.com
+0.0.0.0 www.extrabrick.com
 0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farnazinternational.com
@@ -3432,6 +3437,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.likethislist.biz			# Facebook trojan
 0.0.0.0 www.loansfield.com
 0.0.0.0 www.lockupouseburn.com
+0.0.0.0 www.logoradar.com
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.magento-analytics.com
@@ -3514,6 +3520,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portutopcas.com
+0.0.0.0 www.postsavings.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
@@ -3538,6 +3545,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.reandrogames.com
 0.0.0.0 www.recallblog.com
 0.0.0.0 www.rekonsise.com
+0.0.0.0 www.relaxingcafe.com
 0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.revivemore.com
@@ -3596,11 +3604,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tiompanalley.com
 0.0.0.0 www.tntadfacts.com
 0.0.0.0 www.toysmetaverse.com
+0.0.0.0 www.tradewinning.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
+0.0.0.0 www.ultratemps.com
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
 0.0.0.0 www.upgradebasic.com
