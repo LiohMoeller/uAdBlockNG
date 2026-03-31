@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 27 Mar 2026 17:06:52 GMT
-# entries:        3515
+# last updated:   Tue, 31 Mar 2026 13:32:20 GMT
+# entries:        3521
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1450,6 +1450,7 @@
 127.0.0.1 damdoor.com
 127.0.0.1 dapper.net
 127.0.0.1 data.namesakeoscilloscopemarquis.com
+127.0.0.1 datapickles.com
 127.0.0.1 datenow.link
 127.0.0.1 daybreaklights.com
 127.0.0.1 dc-storm.com
@@ -1756,6 +1757,7 @@
 127.0.0.1 go-link.network
 127.0.0.1 go-mpulse.net
 127.0.0.1 go-rank.de
+127.0.0.1 go.clickwww.com
 127.0.0.1 go.dhs.gov
 127.0.0.1 go.eu.sparkpostmail1.com
 127.0.0.1 go.first.org
@@ -1768,6 +1770,7 @@
 127.0.0.1 goingplatinum.com
 127.0.0.1 goldstats.com
 127.0.0.1 gondolagnome.com
+127.0.0.1 goodcontentservice.top
 127.0.0.1 google-analytics.com
 127.0.0.1 googleadservices.com
 127.0.0.1 googleanalytics.com
@@ -2858,6 +2861,7 @@
 127.0.0.1 shakegoldfish.com
 127.0.0.1 shareasale.com
 127.0.0.1 sharethrough.com
+127.0.0.1 shd247.click
 127.0.0.1 sher.index.hu
 127.0.0.1 shesubscriptions.com
 127.0.0.1 shinystat.com
@@ -2935,6 +2939,7 @@
 127.0.0.1 sortable.com
 127.0.0.1 sourcepoint.vice.com
 127.0.0.1 sovrn.com
+127.0.0.1 sp-a-q-f.ib-game.jp
 127.0.0.1 spacash.com
 127.0.0.1 spaceleadster.com
 127.0.0.1 sparklingshelf.com
@@ -3439,6 +3444,7 @@
 127.0.0.1 widget.educationdynamics.com
 127.0.0.1 widget.privy.com
 127.0.0.1 wikia-ads.wikia.com
+127.0.0.1 wikiquotations.com
 127.0.0.1 win.iqm.com
 127.0.0.1 window.nixnet.cz
 127.0.0.1 wintricksbanner.googlepages.com
