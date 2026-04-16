@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 13 Apr 2026 at 16:59:34 GMT
+# Last updated: Thu, 16 Apr 2026 at 18:33:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2195,6 +2195,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 imagecenter.fr
 0.0.0.0 imago-tv.fr
 0.0.0.0 imotors.fr
+0.0.0.0 in-aoke.com
 0.0.0.0 inateck.fr
 0.0.0.0 incuirfes.beauty
 0.0.0.0 info-sectes.fr
@@ -3106,6 +3107,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tx.micro.net.pk
 0.0.0.0 tx2returnhome.com
 0.0.0.0 typewriter.fr
+0.0.0.0 tyyvps.com
 0.0.0.0 tzmqyj.com
 0.0.0.0 u-pssud.fr
 0.0.0.0 ua-consumerpanel.frge.io
@@ -3266,6 +3268,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.allscrabble.com
 0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.allusermanual.com
+0.0.0.0 www.americanresortresolutions.com
 0.0.0.0 www.amintart.com
 0.0.0.0 www.amomales.com
 0.0.0.0 www.anatol.com
@@ -3299,9 +3302,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.bestlabour.com
+0.0.0.0 www.bevisgame.com
 0.0.0.0 www.bicyclefan.com
 0.0.0.0 www.bigantstore.com
 0.0.0.0 www.bigpremiere.com
+0.0.0.0 www.blanknightsmfg.com
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.blogmaking.com
@@ -3345,6 +3350,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chichomods.com
 0.0.0.0 www.chiefsale.com
+0.0.0.0 www.cidadelobito.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
@@ -3367,6 +3373,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.commuteinfo.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.consultingbyelevate.com
+0.0.0.0 www.controlpop.com
 0.0.0.0 www.cookoven.com
 0.0.0.0 www.corlythra.uk
 0.0.0.0 www.cpatglobal.com
@@ -3388,6 +3395,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.desirymart.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
+0.0.0.0 www.dictadosonline.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.diffuselec.com
 0.0.0.0 www.digisubmission.com
@@ -3500,6 +3508,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hits-football.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
+0.0.0.0 www.hotpanic.net
 0.0.0.0 www.hoursales.com
 0.0.0.0 www.hugesector.com
 0.0.0.0 www.hunterspeed.com
@@ -3574,6 +3583,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
+0.0.0.0 www.mexdrugs.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.mildpost.com
 0.0.0.0 www.milkycascadeut.site
@@ -3597,6 +3607,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.nabtapharma.com
 0.0.0.0 www.nanohistory.com
 0.0.0.0 www.nearestsalon.com
+0.0.0.0 www.necklaceu.com
 0.0.0.0 www.neonpack.com
 0.0.0.0 www.neonracketpro.com
 0.0.0.0 www.new2crypto.com
@@ -3615,6 +3626,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.nzgamingworld.com
 0.0.0.0 www.oakridgeflows.uk
 0.0.0.0 www.objectopoly.info
+0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
@@ -3663,9 +3675,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.portutopcas.com
 0.0.0.0 www.postsavings.com
 0.0.0.0 www.ppoi.org
+0.0.0.0 www.premiumbrandszonalibre.com
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
 0.0.0.0 www.primecrestnq.name
+0.0.0.0 www.princessuppies.com
 0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.promoskills.com
 0.0.0.0 www.properrayam.pro
@@ -3681,7 +3695,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
+0.0.0.0 www.randrongames.com
 0.0.0.0 www.raremosssr.name
+0.0.0.0 www.raspberryketoneslim.com
 0.0.0.0 www.reachtaxi.com
 0.0.0.0 www.readyviews.com
 0.0.0.0 www.reandrogames.com
@@ -3692,6 +3708,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.revivemore.com
 0.0.0.0 www.rickrolling.com
+0.0.0.0 www.ricontools.com
 0.0.0.0 www.rightchanges.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
@@ -3702,6 +3719,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
+0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.sellpetrol.com
@@ -3716,6 +3734,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sinera.org
 0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
@@ -3724,6 +3743,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.softcarp.com
 0.0.0.0 www.softmillon.com
 0.0.0.0 www.softpebble.com
+0.0.0.0 www.softwarebeginner.com
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.sporttile.com
@@ -3735,13 +3755,17 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.stocksrate.com
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.stormhelix.uk
+0.0.0.0 www.stricklyhouses.com
 0.0.0.0 www.strongarchzu.com
 0.0.0.0 www.studioorientbay.com
 0.0.0.0 www.stylistnet.com
 0.0.0.0 www.styxwise.com
 0.0.0.0 www.subwayfast.com
+0.0.0.0 www.sunglassesfor.com
+0.0.0.0 www.supereeego.com
 0.0.0.0 www.supportnestframe.uk
 0.0.0.0 www.supportwindowlane.uk
+0.0.0.0 www.svipfulishipin.com
 0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 www.sweetdominique.com
 0.0.0.0 www.sweetdreamiu.com
@@ -3755,6 +3779,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.technygrow.com
 0.0.0.0 www.techyscope.com
 0.0.0.0 www.tenantbackgronudsearch.com
+0.0.0.0 www.teresinaapartment.com
 0.0.0.0 www.textdynamics.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
