@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 28 Apr 2026 at 16:54:55 GMT
+# Last updated: Fri, 01 May 2026 at 14:13:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1657,6 +1657,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bouygiestelecom.fr
 0.0.0.0 bpong.fr
 0.0.0.0 bracabrac.fr
+0.0.0.0 brainns.sa.com
 0.0.0.0 breg.fr
 0.0.0.0 breitbart.fr
 0.0.0.0 breizh-ile.fr
@@ -1779,6 +1780,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 climate-actionpayment.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
+0.0.0.0 cloudalert.shop
 0.0.0.0 cltxhot.fun
 0.0.0.0 cmcre.fr
 0.0.0.0 cndpt.fr
@@ -1843,6 +1845,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 croissieres.fr
 0.0.0.0 crouslyon.fr
 0.0.0.0 crpo.fr
+0.0.0.0 crrect.sa.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 ctmsapp.com
 0.0.0.0 cuder.fr
@@ -1877,6 +1880,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 deloitteca.com
 0.0.0.0 delphix.fr
 0.0.0.0 deltarviews.bond
+0.0.0.0 dentalfix.shop
 0.0.0.0 denx.fr
 0.0.0.0 department06.fr
 0.0.0.0 deposit-cra2023.com
@@ -3351,6 +3355,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.camtory.com
 0.0.0.0 www.canadianshawid.com
+0.0.0.0 www.caothusohoc.com
 0.0.0.0 www.caramail.com
 0.0.0.0 www.careertake.com
 0.0.0.0 www.carehigher.com
@@ -3625,6 +3630,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.milgaard.com
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
+0.0.0.0 www.miocardite.com
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.moncasinoonline.com
 0.0.0.0 www.monkeyball.osa.pl
@@ -3642,6 +3648,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.myfavcouponstore.com
+0.0.0.0 www.myfurnituresirplus.com
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
@@ -3658,6 +3665,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.nigja.com
 0.0.0.0 www.nnews.net
 0.0.0.0 www.nobetsjustfun.com
+0.0.0.0 www.noithatphanthinh.com
 0.0.0.0 www.northvalesgrids.uk
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
@@ -3694,6 +3702,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.paramutplus.com
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
+0.0.0.0 www.paseyourself.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
@@ -3807,6 +3816,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssdede.com
 0.0.0.0 www.ssl2.in
+0.0.0.0 www.startupsforstartups.com
 0.0.0.0 www.statsff.com
 0.0.0.0 www.steelbucks.com
 0.0.0.0 www.stellarium.fr
@@ -3884,6 +3894,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.websrruss.com
 0.0.0.0 www.webwise.com
@@ -3907,6 +3918,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.xandermaker.com
+0.0.0.0 www.xdesimbi.com
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
