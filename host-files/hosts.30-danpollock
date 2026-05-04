@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 01 May 2026 at 14:13:33 GMT
+# Last updated: Mon, 04 May 2026 at 18:42:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1786,6 +1786,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cndpt.fr
 0.0.0.0 cnhv.co
 0.0.0.0 cnnews.fr
+0.0.0.0 cnrfms.pro
 0.0.0.0 cnt-jrs.com
 0.0.0.0 cnt.statistic.date
 0.0.0.0 codebiogblog.com
@@ -2034,6 +2035,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 flightams.fr
 0.0.0.0 fnactickets.fr
 0.0.0.0 foiegras-groliere.fr
+0.0.0.0 foreverprintco.com
 0.0.0.0 formumactif.fr
 0.0.0.0 forumdread.com
 0.0.0.0 forurm-candaulisme.fr
@@ -2773,6 +2775,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 poweroff.pt
 0.0.0.0 powertrfic.fr
 0.0.0.0 ppoi.org
+0.0.0.0 ppures.shop
 0.0.0.0 pr-wealth.in
 0.0.0.0 predictiondisplay.com
 0.0.0.0 predictivadnetwork.com
@@ -2780,6 +2783,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 premiumvideoupdates.com
 0.0.0.0 pressealgerei.fr
 0.0.0.0 pressesdesciences-po.fr
+0.0.0.0 pressmedieda.info
 0.0.0.0 prfcttit.za.com
 0.0.0.0 priosante.fr
 0.0.0.0 private-sportshop.fr
@@ -3631,6 +3635,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
 0.0.0.0 www.miocardite.com
+0.0.0.0 www.miziko.com
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.moncasinoonline.com
 0.0.0.0 www.monkeyball.osa.pl
@@ -3639,6 +3644,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mostexchange.com
 0.0.0.0 www.movielocks.com
 0.0.0.0 www.mshelp247.weebly.com
+0.0.0.0 www.msmithguitarstudio.com
 0.0.0.0 www.msmpokergamer.com
 0.0.0.0 www.msxzff.com
 0.0.0.0 www.multiceps.com
@@ -3774,6 +3780,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.riversidefr.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
+0.0.0.0 www.robkellysurf.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.rtpbolaslotjago.com
 0.0.0.0 www.russian-sex.com
@@ -3863,6 +3870,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tntadfacts.com
 0.0.0.0 www.toysmetaverse.com
 0.0.0.0 www.tradewinning.com
+0.0.0.0 www.traficsigntest.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
@@ -3917,6 +3925,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.workschat.com
 0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
+0.0.0.0 www.wwwpaipal.com
 0.0.0.0 www.xandermaker.com
 0.0.0.0 www.xdesimbi.com
 0.0.0.0 www.xtremetechcr.com
@@ -3937,6 +3946,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 xxlargepop.com
 0.0.0.0 yachtingmagazine.fr
 0.0.0.0 yama.myfixhub.cfd
+0.0.0.0 yanteaviation.com
 0.0.0.0 ycapital.fr
 0.0.0.0 yev.moviesdirectpro.com
 0.0.0.0 yexex.comfortykive.xyz
