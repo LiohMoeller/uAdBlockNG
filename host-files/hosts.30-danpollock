@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 07 May 2026 at 19:05:36 GMT
+# Last updated: Sat, 09 May 2026 at 16:32:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1525,6 +1525,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 apconsultantgroup.com
 0.0.0.0 apel3.fr
 0.0.0.0 api.inwemo.com
+0.0.0.0 apoutong.com
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 appale.fr
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
@@ -1733,6 +1734,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cbcare.fr
 0.0.0.0 cbt5.sdalfurqanjember.sch.id
 0.0.0.0 ccieurope.fr
+0.0.0.0 ccs.north-kazakhstan.su
 0.0.0.0 ccudl.com
 0.0.0.0 cd-elec.fr
 0.0.0.0 cd-sport.fr
@@ -3471,6 +3473,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.extrabrick.com
 0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
+0.0.0.0 www.farmacyty.com
 0.0.0.0 www.farnazinternational.com
 0.0.0.0 www.fashiongown.com
 0.0.0.0 www.fenquavo.com
@@ -3514,6 +3517,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gamersigns.com
 0.0.0.0 www.gandiatv.com
 0.0.0.0 www.gavelandcap.com
+0.0.0.0 www.gekkstoyou.com
 0.0.0.0 www.gekorn.com
 0.0.0.0 www.generaldocs.com
 0.0.0.0 www.gentleshadeox.pro
@@ -3552,6 +3556,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.helvora.help
 0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.higherteam.com
+0.0.0.0 www.hindudirectory.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
 0.0.0.0 www.hocxaydung.com
@@ -3876,6 +3881,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thefriday.net
 0.0.0.0 www.themesets.com
+0.0.0.0 www.theprimeindia.com
 0.0.0.0 www.thesecuredtrader.com
 0.0.0.0 www.thisplanet.net
 0.0.0.0 www.thunderbird.es
