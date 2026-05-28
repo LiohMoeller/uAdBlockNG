@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 24 May 2026 at 17:32:29 GMT
+# Last updated: Thu, 28 May 2026 at 15:24:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3329,6 +3329,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
+0.0.0.0 www.backingguitar.garden
 0.0.0.0 www.bahartonu.com
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.balassst.com
@@ -3435,6 +3436,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
+0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
 0.0.0.0 www.dangdangflow.com
@@ -3730,8 +3732,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.nursse.com
 0.0.0.0 www.nwbidrtb.com
 0.0.0.0 www.nzgamingworld.com
+0.0.0.0 www.oakog.com
 0.0.0.0 www.oakridgeflows.uk
 0.0.0.0 www.objectopoly.info
+0.0.0.0 www.occoquananimalhospital.com
 0.0.0.0 www.officerreport.com
 0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
@@ -3830,6 +3834,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.ricontools.com
 0.0.0.0 www.rightchanges.com
+0.0.0.0 www.risedirectly.living
 0.0.0.0 www.riversidefr.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
@@ -3867,6 +3872,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.smokyshadecj.name
 0.0.0.0 www.snkido.com
 0.0.0.0 www.snowhandball.com
+0.0.0.0 www.snugbirdjq.blog
 0.0.0.0 www.snurrlyspin.com
 0.0.0.0 www.softcarp.com
 0.0.0.0 www.softmillon.com
@@ -3944,6 +3950,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.urldelivery.com
 0.0.0.0 www.vacnleefarpels.com
 0.0.0.0 www.vebprostopinup.com
+0.0.0.0 www.vecchiopools.com
 0.0.0.0 www.ventilationdirec.com
 0.0.0.0 www.venturead.com
 0.0.0.0 www.vetmanevi.com
