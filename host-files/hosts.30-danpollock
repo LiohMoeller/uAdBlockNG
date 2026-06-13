@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 10 Jun 2026 at 16:00:47 GMT
+# Last updated: Sat, 13 Jun 2026 at 16:58:44 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2422,6 +2422,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 livreral.fr
 0.0.0.0 livrval.fr
 0.0.0.0 livsffer.sa.com
+0.0.0.0 livsfs.today
 0.0.0.0 localo.fr
 0.0.0.0 login.belladermaco.com
 0.0.0.0 login.creditals-email.space
@@ -3353,6 +3354,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bbyjgkkdihiyxy.com
 0.0.0.0 www.bcwars.net
 0.0.0.0 www.be4life.ru
+0.0.0.0 www.behdja.com
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.bestlabour.com
@@ -3471,6 +3473,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.desirymart.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
+0.0.0.0 www.diamondconnections.living
 0.0.0.0 www.dictadosonline.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.diffuselec.com
@@ -3580,6 +3583,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gotorobeks.com
 0.0.0.0 www.gparted.fr
 0.0.0.0 www.gpolitico.com
+0.0.0.0 www.gracefulmeaduu.online
 0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.grandtables.com
 0.0.0.0 www.greatdeposit.com
@@ -3653,6 +3657,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.kesau.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.khanomtour.com
+0.0.0.0 www.kinderstampo.com
 0.0.0.0 www.kindnations.com
 0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kittayaroyalbeauty.com
@@ -3690,6 +3695,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.loveromantic.com
 0.0.0.0 www.lunargrovefx.com
+0.0.0.0 www.madnesscase.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.maiecaffe.com
 0.0.0.0 www.maillazy.com
@@ -3784,6 +3790,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.paidsecure.com
 0.0.0.0 www.paidtheme.com
 0.0.0.0 www.paintballpins.com
+0.0.0.0 www.paintingoccasion.living
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.palaceskateboard.com
@@ -3822,6 +3829,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portutopcas.com
 0.0.0.0 www.postsavings.com
+0.0.0.0 www.poukladanyswiat.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.premiumbrandszonalibre.com
 0.0.0.0 www.presidency.site
@@ -3915,6 +3923,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.softwarebeginner.com
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
+0.0.0.0 www.spiritentertainment.homes
 0.0.0.0 www.spojrzenia.com
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssdede.com
@@ -3988,6 +3997,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.uqz.com
 0.0.0.0 www.urldelivery.com
 0.0.0.0 www.vacnleefarpels.com
+0.0.0.0 www.vbttech.com
 0.0.0.0 www.vebprostopinup.com
 0.0.0.0 www.vecchiopools.com
 0.0.0.0 www.ventilationdirec.com
@@ -4018,6 +4028,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.wezelco.com
+0.0.0.0 www.wgmarketingdigital.com
 0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
@@ -4041,11 +4052,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
+0.0.0.0 www.yixiudn.com
 0.0.0.0 www.ylgj789.com
 0.0.0.0 www.yoolyes.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www.yreta.com
 0.0.0.0 www.zenithvault.uk
+0.0.0.0 www.zephyrvineky.online
 0.0.0.0 www.zippylakeri.name
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
