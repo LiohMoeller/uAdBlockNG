@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 07 Jul 2026 at 18:31:08 GMT
+# Last updated: Fri, 10 Jul 2026 at 15:25:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2166,6 +2166,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hcg82f2b.com
 0.0.0.0 headization.lexkd.cn
 0.0.0.0 healpublic.best
+0.0.0.0 healthit.live
 0.0.0.0 hefever.fr
 0.0.0.0 hellomobile.fr
 0.0.0.0 helpmedb.com
@@ -2748,6 +2749,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 percantil.fr
 0.0.0.0 peremiere.fr
 0.0.0.0 perfecct.sa.com
+0.0.0.0 performer.za.com
 0.0.0.0 petra.nic.gov.jo
 0.0.0.0 pexkr.comfortykive.xyz
 0.0.0.0 pfepfe.cc
@@ -3531,6 +3533,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.eqarati.com
 0.0.0.0 www.eremplacementparts.com
 0.0.0.0 www.erincranor.com
+0.0.0.0 www.erspan.com
 0.0.0.0 www.esjetonline.com
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.europelinen.com
@@ -3548,6 +3551,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farmacyty.com
 0.0.0.0 www.farnazinternational.com
+0.0.0.0 www.faruvclight.com
 0.0.0.0 www.fashiongown.com
 0.0.0.0 www.feelimprove.bond
 0.0.0.0 www.fenquavo.com
@@ -3648,6 +3652,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
 0.0.0.0 www.hotpanic.net
+0.0.0.0 www.hourofscience.com
 0.0.0.0 www.hoursales.com
 0.0.0.0 www.hugesector.com
 0.0.0.0 www.hunterspeed.com
@@ -3675,6 +3680,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.isavs.com
 0.0.0.0 www.iwantclothing.com
 0.0.0.0 www.jackpotcasinojeux.com
+0.0.0.0 www.jacqueruth.com
 0.0.0.0 www.janushnderson.com
 0.0.0.0 www.jerseyoffers.com
 0.0.0.0 www.jessicalonda.com
@@ -3788,6 +3794,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.myrosinase.com
 0.0.0.0 www.nabtapharma.com
 0.0.0.0 www.nanohistory.com
 0.0.0.0 www.naturalmovementz.com
@@ -3857,6 +3864,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.perimentu.com
 0.0.0.0 www.pfsim.com
 0.0.0.0 www.phantomluck.com
+0.0.0.0 www.phonenumberbook.com
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.pickupclean.com
@@ -3932,16 +3940,19 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rnodernssolution.com
 0.0.0.0 www.robkellysurf.com
 0.0.0.0 www.romanticdemands.bond
+0.0.0.0 www.roofcoins.com
 0.0.0.0 www.rplconnect.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.rtpbolaslotjago.com
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.sailpirate.com
+0.0.0.0 www.saintmc.com
 0.0.0.0 www.salliemaebenefits.com
 0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
 0.0.0.0 www.santemama.com
+0.0.0.0 www.sapiatinsurance.com
 0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.sealabour.living
@@ -3963,6 +3974,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sinera.org
 0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.skillmatchgame.com
 0.0.0.0 www.skyonlinegratis.com
 0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.smashchampionsat.com
