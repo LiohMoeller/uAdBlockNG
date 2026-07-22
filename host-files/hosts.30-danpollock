@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 17 Jul 2026 at 21:15:47 GMT
+# Last updated: Wed, 22 Jul 2026 at 18:29:49 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3488,6 +3488,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
+0.0.0.0 www.cruzresorts.com
 0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
@@ -3524,6 +3525,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.dualeotruyenno.com
 0.0.0.0 www.duotrader.com
 0.0.0.0 www.dustinjonesgolfacademy.com
+0.0.0.0 www.dutchoutlet.com
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.dynamictyres.com
 0.0.0.0 www.dzzzsc.com
@@ -3599,6 +3601,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.futureowned.com
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gaicodon.com
+0.0.0.0 www.gaiis.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gamelthae.com
 0.0.0.0 www.gameltjae.com
@@ -3658,6 +3661,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hindudirectory.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
+0.0.0.0 www.hoabridal.com
 0.0.0.0 www.hocxaydung.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
@@ -3668,12 +3672,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hunterspeed.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.hypetrust.com
+0.0.0.0 www.ibenefi.com
 0.0.0.0 www.icecars.com
 0.0.0.0 www.iconatsbs.com
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.iepelnazareno.com
+0.0.0.0 www.iesaber.com
 0.0.0.0 www.igameup.com
 0.0.0.0 www.improvingthe.com
 0.0.0.0 www.indexprofile.com
@@ -3732,6 +3738,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.langleyantiques.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.learngears.com
+0.0.0.0 www.learningfound.com
 0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.ledfaucetlight.com
@@ -3926,6 +3933,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.quartersnorth.lat
 0.0.0.0 www.quarvions.com
 0.0.0.0 www.quintingwatches.com
+0.0.0.0 www.quipla.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
@@ -4109,6 +4117,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webdesignmetric.com
 0.0.0.0 www.webdevotee.com
 0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webontwerp.com
