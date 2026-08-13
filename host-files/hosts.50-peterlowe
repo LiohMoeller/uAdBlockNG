@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 10 Aug 2026 13:55:16 GMT
-# entries:        3521
+# last updated:   Thu, 13 Aug 2026 13:36:53 GMT
+# entries:        3526
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1184,6 +1184,7 @@
 127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
+127.0.0.1 catfront.dianping.com
 127.0.0.1 cattlecommittee.com
 127.0.0.1 causecherry.com
 127.0.0.1 cautiouscredit.com
@@ -1450,6 +1451,7 @@
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
 127.0.0.1 dapper.net
+127.0.0.1 data.hailuo.ai
 127.0.0.1 datapickles.com
 127.0.0.1 datenow.link
 127.0.0.1 daybreaklights.com
@@ -2613,6 +2615,7 @@
 127.0.0.1 pub.network
 127.0.0.1 pub.realmedia.fr
 127.0.0.1 pubdirecte.com
+127.0.0.1 pubfuture-ssp.com
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 publicidees.com
 127.0.0.1 publicsofa.com
@@ -2786,6 +2789,7 @@
 127.0.0.1 rubiconproject.com
 127.0.0.1 rum-http-intake.logs.datadoghq.com
 127.0.0.1 rum-http-intake.logs.datadoghq.eu
+127.0.0.1 rum-openway.guance.com
 127.0.0.1 rum.aliyuncs.com
 127.0.0.1 runads.com
 127.0.0.1 rundsp.com
@@ -3313,6 +3317,7 @@
 127.0.0.1 turboadv.com
 127.0.0.1 turn.com
 127.0.0.1 twelvedawn.com
+127.0.0.1 twisty.net
 127.0.0.1 twittad.com
 127.0.0.1 twyn.com
 127.0.0.1 tynt.com
