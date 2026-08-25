@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 17 Aug 2026 15:23:00 GMT
-# entries:        3516
+# last updated:   Tue, 25 Aug 2026 07:27:29 GMT
+# entries:        3518
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -1032,6 +1032,7 @@
 127.0.0.1 baskettexture.com
 127.0.0.1 bat.bing.com
 127.0.0.1 bbelements.com
+127.0.0.1 bbm-ad-stack-production.up.railway.app
 127.0.0.1 bbn.img.com.ua
 127.0.0.1 beachfront.com
 127.0.0.1 beacon.gu-web.net
@@ -1648,6 +1649,7 @@
 127.0.0.1 fastly-insights.com
 127.0.0.1 faultycanvas.com
 127.0.0.1 fave.co
+127.0.0.1 faxcoupons.com
 127.0.0.1 fc.webmasterpro.de
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
