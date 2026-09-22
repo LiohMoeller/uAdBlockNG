@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 16 Sep 2026 05:05:45 GMT
-# entries:        3546
+# last updated:   Tue, 22 Sep 2026 16:39:41 GMT
+# entries:        3554
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext
@@ -175,6 +175,7 @@
 127.0.0.1 ad4mat.com
 127.0.0.1 ad4mat.de
 127.0.0.1 ad4mat.net
+127.0.0.1 ad7.biz
 127.0.0.1 adabra.com
 127.0.0.1 adaction.de
 127.0.0.1 adadvisor.net
@@ -231,6 +232,7 @@
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
 127.0.0.1 adhigh.net
+127.0.0.1 adhood.com
 127.0.0.1 adhub.media
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
@@ -878,6 +880,7 @@
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 analytics.momentum-institut.at
 127.0.0.1 analytics.myfinance.com
+127.0.0.1 analytics.org.coveo.com
 127.0.0.1 analytics.ostr.io
 127.0.0.1 analytics.phando.com
 127.0.0.1 analytics.picsart.com
@@ -2398,6 +2401,8 @@
 127.0.0.1 offer.sponsorpay.com
 127.0.0.1 offerforge.com
 127.0.0.1 offermatica.com
+127.0.0.1 offers.gateway-lts450.com
+127.0.0.1 offers.ltsc-has.com
 127.0.0.1 offshoregeology.com
 127.0.0.1 ogads-pa.googleapis.com
 127.0.0.1 oglasi.posjetnica.com
@@ -2773,6 +2778,7 @@
 127.0.0.1 rockabox.co
 127.0.0.1 rockagainst.com
 127.0.0.1 rockstarwriter.com
+127.0.0.1 roguephilosopher.com
 127.0.0.1 rok.com.com
 127.0.0.1 rollconnection.com
 127.0.0.1 ronracepub.com
@@ -3213,6 +3219,7 @@
 127.0.0.1 tr.p.360.cn
 127.0.0.1 tracecontent.com
 127.0.0.1 track-eu.customer.io
+127.0.0.1 track-na2.hubspot.com
 127.0.0.1 track.adform.net
 127.0.0.1 track.anchorfree.com
 127.0.0.1 track.canva.com
@@ -3254,6 +3261,7 @@
 127.0.0.1 tracking.casheddy.com
 127.0.0.1 tracking.cybertips.uk
 127.0.0.1 tracking.epicgames.com
+127.0.0.1 tracking.gauchosurf.com
 127.0.0.1 tracking.hostgator.com
 127.0.0.1 tracking.hyros.com
 127.0.0.1 tracking.ibxlink.com
