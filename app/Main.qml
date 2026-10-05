@@ -168,13 +168,6 @@ MainView {
                             name: "security-alert"
                             anchors.horizontalCenter: parent.horizontalCenter
                         }
-                        Label {
-                            id: warnText
-                            width: parent.width
-                            horizontalAlignment: Text.AlignHCenter
-                            wrapMode: Text.WordWrap
-                            text: i18n.tr("Please note that this app will modify your readonly filesystem")
-                        }
                     }
                 }
 
